@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Newsreader', Georgia, Cambria, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+}
+
+/* Custom drop-cap for opening editorial paragraphs */
+.editorial-drop-cap::first-letter {
+  font-family: var(--font-serif);
+  float: left;
+  font-size: 4.25rem;
+  line-height: 0.8;
+  padding-top: 0.15rem;
+  padding-right: 0.75rem;
+  padding-bottom: 0.1rem;
+  font-weight: 500;
+  color: currentColor;
+}
