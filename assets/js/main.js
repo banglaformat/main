@@ -1,14 +1,46 @@
 /**
  * Bangla Format - Core Vanilla JavaScript
- * Lightweight, accessible, no trackers.
+ * Lightweight, accessible, and SEO/Analytics ready.
  */
 
+// Default GA4 Measurement ID (can also be set globally via window.GA_MEASUREMENT_ID)
+const DEFAULT_GA_ID = 'G-GX09P20D4B';
+
 document.addEventListener('DOMContentLoaded', function () {
+  initGoogleAnalytics();
   initMobileNav();
   initCopyButtons();
   initShareButtons();
   initBackToTop();
 });
+
+/**
+ * Google Analytics 4 (GA4) Integration
+ * Automatically loads gtag.js across all pages when a valid Measurement ID is present.
+ */
+function initGoogleAnalytics() {
+  const measurementId = window.GA_MEASUREMENT_ID || DEFAULT_GA_ID;
+  if (!measurementId) return;
+
+  // Prevent double injection if already loaded in HTML head
+  if (document.getElementById('ga-gtag-script') || typeof window.gtag === 'function') {
+    return;
+  }
+
+  const script = document.createElement('script');
+  script.id = 'ga-gtag-script';
+  script.async = true;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+  document.head.appendChild(script);
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { window.dataLayer.push(arguments); }
+  window.gtag = gtag;
+  gtag('js', new Date());
+  gtag('config', measurementId, {
+    send_page_view: true
+  });
+}
 
 /**
  * Mobile Navigation Toggle
@@ -100,11 +132,20 @@ window.copyToClipboard = function (targetId, button) {
 };
 
 function copyTextWithFeedback(text, button) {
+  function onCopySuccess() {
+    if (button) showCopyFeedback(button);
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', 'template_copy', {
+        event_category: 'engagement',
+        event_label: document.title,
+        page_location: window.location.href
+      });
+    }
+  }
+
   if (navigator.clipboard && window.isSecureContext) {
     navigator.clipboard.writeText(text).then(
-      function () {
-        if (button) showCopyFeedback(button);
-      },
+      onCopySuccess,
       function () {
         if (button) fallbackCopyText(text, button);
       }
@@ -126,10 +167,18 @@ function initShareButtons() {
 
     button.addEventListener('click', function () {
       const url = window.location.href;
+      function onShareSuccess() {
+        showShareFeedback(button);
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'page_share', {
+            event_category: 'engagement',
+            page_location: url
+          });
+        }
+      }
+
       if (navigator.clipboard && window.isSecureContext) {
-        navigator.clipboard.writeText(url).then(function () {
-          showShareFeedback(button);
-        }, function () {
+        navigator.clipboard.writeText(url).then(onShareSuccess, function () {
           fallbackCopyText(url, button);
         });
       } else {

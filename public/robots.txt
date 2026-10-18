@@ -1,4 +1,25 @@
+# Robots.txt for Bangla Format (https://banglaformat.co)
 User-agent: *
 Allow: /
 
+# AI Crawlers & Answer Engines (LLMO / GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap & LLM Index
 Sitemap: https://banglaformat.co/sitemap.xml

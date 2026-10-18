@@ -1,0 +1,53 @@
+# Bangla Format (https://banglaformat.co)
+
+> বাংলা প্রাতিষ্ঠানিক আবেদনপত্র, অফিসিয়াল চিঠি, নোটিশ, মেমো, প্রফেশনাল ইমেইল ও সিভি তৈরির নির্ভরযোগ্য উন্মুক্ত প্ল্যাটফর্ম।
+
+Bangla Format (banglaformat.co) is an open educational resource providing standardized, grammatically accurate Bengali document templates, official letters, office memos, academic applications, professional emails, and CV/resume writing guides.
+
+## Core Hubs & Categories
+
+- [হোমপেজ / All Formats](https://banglaformat.co/): সম্পূর্ণ ফরম্যাট তালিকা ও নেভিগেশন।
+- [স্কুল-কলেজ আবেদনপত্র (Academic Applications)](https://banglaformat.co/academic-applications/): ছুটির আবেদন, প্রশংসাপত্র, টিসি, ফি মওকুফ, আইডি কার্ড হারানোর দরখাস্ত ইত্যাদি।
+- [অফিস লেটার ও নোটিশ (Office Letters & Notices)](https://banglaformat.co/office-letters-notices/): পদত্যাগপত্র, অফিস মেমো, নোটিশ, দেরিতে উপস্থিতির ব্যাখ্যা, ছুটির চিঠি, এক্সপেরিয়েন্স সার্টিফিকেট, মিটিং মিনিটস (MOM)।
+- [প্রফেশনাল ইমেইল (Professional Emails)](https://banglaformat.co/professional-emails/): চাকরির খোঁজ ইমেইল, ইন্টারভিউ ফলো-আপ, অফিস ছুটির রিকোয়েস্ট, অভিযোগ ও রিফান্ড ইমেইল, ইমেইল সাবজেক্ট লাইন ও অ্যাটাচমেন্ট নিয়মাবলী।
+- [সিভি ও রেজুমে ফরম্যাট (CV & Resume Templates)](https://banglaformat.co/cv-resume-templates/): ফ্রেশার সিভি, অভিজ্ঞদের রেজুমে, শিক্ষক সিভি, কভার লেটার টেমপ্লেট, ATS-Friendly সিভি তৈরির গোল্ডেন রুলস।
+
+## Key Reference Articles & Templates
+
+- [প্রধান শিক্ষক বরাবর ছুটির আবেদনপত্র](https://banglaformat.co/academic-applications/chutir-abedon-application-school/)
+- [অসুস্থতার কারণে ছুটির আবেদনপত্র](https://banglaformat.co/academic-applications/oshusthotar-karone-chutir-abedon/)
+- [প্রশংসাপত্র ও চারিত্রিক সনদের আবেদনপত্র](https://banglaformat.co/academic-applications/charitrik-sonod-abedon/)
+- [ট্রান্সফার সার্টিফিকেট (TC) এর আবেদনপত্র](https://banglaformat.co/academic-applications/tc-abedon-transfer-certificate/)
+- [ফি মওকুফের আবেদনপত্র](https://banglaformat.co/academic-applications/fee-mokuf-abedon/)
+- [হোস্টেল সিট বরাদ্দের আবেদনপত্র](https://banglaformat.co/academic-applications/hostel-seat-allocation-abedon/)
+- [আইডি কার্ড হারিয়ে গেলে আবেদনপত্র](https://banglaformat.co/academic-applications/id-card-hariye-gele-abedon/)
+- [পরীক্ষায় অনুপস্থিতির আবেদনপত্র](https://banglaformat.co/academic-applications/porikkhay-onuposthitir-abedon/)
+- [পদত্যাগপত্র (Resignation Letter) বাংলা ও ইংরেজি](https://banglaformat.co/office-letters-notices/job-resignation-letter-bangla-english/)
+- [অফিস মেমো (Office Memo) ফরম্যাট](https://banglaformat.co/office-letters-notices/office-memo-format-sample/)
+- [অফিস নোটিশ (Office Notice) ফরম্যাট](https://banglaformat.co/office-letters-notices/office-notice-format-timing-holiday-meeting/)
+- [দেরিতে উপস্থিতির ব্যাখ্যাপত্র (Late Attendance)](https://banglaformat.co/office-letters-notices/late-attendance-explanation-letter/)
+- [মিটিং মিনিটস (MOM) লেখার নিয়ম ও ফরম্যাট](https://banglaformat.co/office-letters-notices/meeting-minutes-mom-template-rules/)
+- [অফিস ছুটির আবেদনপত্র (Casual & Medical)](https://banglaformat.co/office-letters-notices/office-leave-application-casual-medical/)
+- [অভিজ্ঞতা সনদের আবেদন ও ফরম্যাট](https://banglaformat.co/office-letters-notices/experience-certificate-format/)
+- [চাকরি খোঁজের প্রফেশনাল ইমেইল (Job Inquiry)](https://banglaformat.co/professional-emails/job-inquiry-email-sample/)
+- [ইন্টারভিউ পরবর্তী ফলো-আপ ইমেইল (Post-Interview Follow-Up)](https://banglaformat.co/professional-emails/post-interview-follow-up-email/)
+- [অফিস ছুটির আবেদন ইমেইল](https://banglaformat.co/professional-emails/leave-request-email-sample/)
+- [অভিযোগ ও রিফান্ড ইমেইল](https://banglaformat.co/professional-emails/complaint-email-delivery-service-refund/)
+- [ইমেইল সাবজেক্ট লাইন লেখার নিয়ম](https://banglaformat.co/professional-emails/email-subject-line-rules-examples/)
+- [ইমেইল অ্যাটাচমেন্ট পাঠানোর নিয়ম](https://banglaformat.co/professional-emails/email-attachment-etiquette-naming-size/)
+- [CV ATS-Friendly করার বেসিক নিয়ম](https://banglaformat.co/cv-resume-templates/ats-friendly-cv-basic-rules/)
+- [কভার লেটার টেমপ্লেট ও লেখার নিয়ম](https://banglaformat.co/cv-resume-templates/cover-letter-template-job-internship/)
+- [ফ্রেশার সিভি ফরম্যাট (বাংলাদেশ)](https://banglaformat.co/cv-resume-templates/fresher-cv-format-bangladesh-template/)
+- [অভিজ্ঞ প্রফেশনালদের সিভি ফরম্যাট](https://banglaformat.co/cv-resume-templates/experienced-professional-cv-resume-format/)
+- [শিক্ষকদের জন্য সিভি ফরম্যাট](https://banglaformat.co/cv-resume-templates/teacher-cv-resume-format-bangladesh/)
+- [সিভিতে ক্যারিয়ার অবজেক্টিভ ও স্কিল লেখার নিয়ম](https://banglaformat.co/cv-resume-templates/cv-objective-skills-writing-guide/)
+
+## Publisher & Trust Information
+- Editor & Founder: Hiam
+- Official Email: hiam@banglaformat.co
+- Organization: Bangla Format
+- Canonical URL: https://banglaformat.co
+- About: https://banglaformat.co/about/
+- Editorial Policy: https://banglaformat.co/editorial-policy/
+- Privacy Policy: https://banglaformat.co/privacy-policy/
+- Language: Bengali (বাংলা), Bangladesh (bn-BD)
