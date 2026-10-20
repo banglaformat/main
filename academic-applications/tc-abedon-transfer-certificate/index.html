@@ -26,8 +26,9 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
 
+  <link rel="stylesheet" href="/assets/css/style.css">
 
-  <script src="/assets/js/main.js" defer></script>
+
 
   <!-- JSON-LD: Article Schema -->
   <script type="application/ld+json">
@@ -135,7 +136,7 @@
       
 
       <!-- Institutional Disclaimer Callout -->
-      <div class="callout warning" role="note" aria-label="সতর্কবার্তা">
+      <div class="callout callout-warning" role="note" aria-label="সতর্কবার্তা">
         <strong>সতর্কতা ও প্রাতিষ্ঠানিক নিয়মাবলী:</strong> স্কুল বা কলেজ পরিবর্তনের ক্ষেত্রে শিক্ষা বোর্ডের নির্ধারিত ই-টিসি (e-TC) বা ম্যানুয়াল ছাড়পত্রের সময়সীমা, ফি এবং ছাড়পত্র প্রদানের শর্তাবলী প্রতিষ্ঠানভেদে ভিন্ন হতে পারে। বকেয়া বেতন ও লাইব্রেরি পাওনা পরিশোধ নিশ্চিত করে তবেই আবেদন জমা দিতে হয়। এটি একটি আদর্শ শিক্ষামূলক নির্দেশিকা।
       </div>
 
@@ -267,7 +268,10 @@
         <div class="template-box">
           <div class="template-header">
             <span class="template-title">নমুনা ১: পিতার চাকরি বদলির কারণে স্কুলে টিসি (TC) এর আবেদন</span>
-            <button class="copy-btn" data-copy-target="template-1" type="button">কপি করুন</button>
+            <button type="button" class="btn btn-sm btn-copy copy-btn" data-copy-target="template-1" aria-label="টেমপ্লেট কপি করুন">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            কপি করুন
+          </button>
           </div>
           <pre><code id="template-1">তারিখ: [আবেদনের তারিখ, যেমন: ০১ অক্টোবর ২০২৬]
 
@@ -303,7 +307,10 @@
         <div class="template-box">
           <div class="template-header">
             <span class="template-title">নমুনা ২: পারিবারিক বাসস্থান পরিবর্তন ও যাতায়াত সমস্যার কারণে টিসি আবেদন</span>
-            <button class="copy-btn" data-copy-target="template-2" type="button">কপি করুন</button>
+            <button type="button" class="btn btn-sm btn-copy copy-btn" data-copy-target="template-2" aria-label="টেমপ্লেট কপি করুন">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            কপি করুন
+          </button>
           </div>
           <pre><code id="template-2">তারিখ: [আবেদনের তারিখ]
 
@@ -336,7 +343,10 @@
         <div class="template-box">
           <div class="template-header">
             <span class="template-title">নমুনা ৩: কলেজ পর্যায়ে অনলাইন ইটিসি (e-TC) পরবর্তী রিলিজ ও ছাড়পত্রের আবেদন</span>
-            <button class="copy-btn" data-copy-target="template-3" type="button">কপি করুন</button>
+            <button type="button" class="btn btn-sm btn-copy copy-btn" data-copy-target="template-3" aria-label="টেমপ্লেট কপি করুন">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            কপি করুন
+          </button>
           </div>
           <pre><code id="template-3">তারিখ: [তারিখ উল্লেখ করুন]
 
@@ -465,7 +475,7 @@
         <div class="author-bio">
           বাংলাদেশের শিক্ষার্থী ও পেশাজীবীদের জন্য প্রমিত বাংলা ডকুমেন্টস, প্রশাসনিক চিঠি ও প্রফেশনাল কমিউনিকেশন বিষয়ে বিশেষজ্ঞ এবং নিয়মিত লেখক।
         </div>
-      </div>
+</div>
     </div>
 
     <!-- Related Posts Section -->
@@ -497,10 +507,11 @@
 
     <!-- Site Footer -->
   <footer class="site-footer">
-    <div class="container footer-top">
+    <div class="footer-top">
+      <div class="container">
       <div class="footer-grid">
         <!-- Col 1: About Brand -->
-        <div class="footer-col">
+        <div class="footer-col footer-col-about">
           <a href="/" class="footer-brand" aria-label="Bangla Format হোমপেজ">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="footer-brand-icon" aria-hidden="true">
               <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
@@ -520,7 +531,7 @@
         </div>
 
         <!-- Col 2: Categories -->
-        <div class="footer-col">
+        <div class="footer-col footer-col-nav">
           <h3 class="footer-heading">ক্যাটাগরি সমূহ</h3>
           <ul class="footer-links">
             <li><a href="/academic-applications/">স্কুল-কলেজ আবেদন</a></li>
@@ -531,7 +542,7 @@
         </div>
 
         <!-- Col 3: Trust & Policies -->
-        <div class="footer-col">
+        <div class="footer-col footer-col-nav">
           <h3 class="footer-heading">জরুরি পলিসি ও লিংক</h3>
           <ul class="footer-links">
             <li><a href="/about/">আমাদের সম্পর্কে (About Us)</a></li>
@@ -543,6 +554,7 @@
           </ul>
         </div>
       </div>
+      </div>
     </div>
 
     <!-- Bottom Copyright -->
@@ -553,5 +565,6 @@
       </div>
     </div>
   </footer>
+  <script src="/assets/js/main.js" defer></script>
 </body>
 </html>
