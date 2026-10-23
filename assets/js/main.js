@@ -22,23 +22,42 @@ function initGoogleAnalytics() {
   const measurementId = window.GA_MEASUREMENT_ID || DEFAULT_GA_ID;
   if (!measurementId) return;
 
-  // Prevent double injection if already loaded in HTML head
-  if (document.getElementById('ga-gtag-script') || typeof window.gtag === 'function') {
+  // Prevent double injection if already loaded or scheduled
+  if (document.getElementById('ga-gtag-script')) {
     return;
   }
 
-  const script = document.createElement('script');
-  script.id = 'ga-gtag-script';
-  script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
-  document.head.appendChild(script);
-
   window.dataLayer = window.dataLayer || [];
-  function gtag() { window.dataLayer.push(arguments); }
-  window.gtag = gtag;
-  gtag('js', new Date());
-  gtag('config', measurementId, {
-    send_page_view: true
+  if (typeof window.gtag !== 'function') {
+    function gtag() { window.dataLayer.push(arguments); }
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', measurementId, {
+      send_page_view: true
+    });
+  }
+
+  var loaded = false;
+  function loadGtagScript() {
+    if (loaded || document.getElementById('ga-gtag-script')) return;
+    loaded = true;
+    const script = document.createElement('script');
+    script.id = 'ga-gtag-script';
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(measurementId);
+    document.head.appendChild(script);
+  }
+
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(loadGtagScript, { timeout: 2500 });
+  } else {
+    window.addEventListener('load', function () {
+      setTimeout(loadGtagScript, 1000);
+    }, { once: true });
+  }
+
+  ['scroll', 'keydown', 'touchstart', 'click'].forEach(function (evt) {
+    window.addEventListener(evt, loadGtagScript, { once: true, passive: true });
   });
 }
 

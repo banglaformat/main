@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
-
 :root {
   --color-primary: #15803d;
   --color-primary-dark: #166534;
@@ -9,7 +7,7 @@
   --color-surface: #ffffff;
   --color-text-main: #0f172a;
   --color-text-muted: #475569;
-  --color-text-subtle: #64748b;
+  --color-text-subtle: #475569;
   --color-border: #e2e8f0;
   --color-border-dark: #cbd5e1;
   --color-callout-info-bg: #eff6ff;
@@ -808,14 +806,14 @@ pre code {
 .footer-desc {
   margin: 0 0 1rem 0;
   line-height: 1.7;
-  color: #94a3b8;
+  color: #cbd5e1;
   font-size: 0.9rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
 .footer-editor {
   margin: 0;
-  color: #64748b;
+  color: #94a3b8;
   font-size: 0.85rem;
   line-height: 1.6;
 }
@@ -848,7 +846,7 @@ pre code {
   border-top: 1px solid #1e293b;
   padding: 1.5rem 0;
   font-size: 0.85rem;
-  color: #94a3b8;
+  color: #cbd5e1;
   width: 100%;
 }
 .footer-bottom-inner {
@@ -860,7 +858,7 @@ pre code {
   text-align: center;
 }
 .footer-bottom-tagline {
-  color: #64748b;
+  color: #94a3b8;
   font-size: 0.825rem;
 }
 

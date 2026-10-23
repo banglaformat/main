@@ -10,16 +10,35 @@
   <!-- Google Search Console Site Verification -->
   <meta name="google-site-verification" content="gjjMs4gewoJZUt1DUY2282JgLDC6tImo0tO4gbDroE8" />
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GX09P20D4B"></script>
+  <!-- Google tag (gtag.js) - Performance Optimized Deferred Loading -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     window.gtag = gtag;
     gtag('js', new Date());
-
     gtag('config', 'G-GX09P20D4B');
     window.GA_MEASUREMENT_ID = 'G-GX09P20D4B';
+
+    (function() {
+      var loaded = false;
+      function loadGtag() {
+        if (loaded || document.getElementById('ga-gtag-script')) return;
+        loaded = true;
+        var s = document.createElement('script');
+        s.id = 'ga-gtag-script';
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-GX09P20D4B';
+        document.head.appendChild(s);
+      }
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(loadGtag, { timeout: 2500 });
+      } else {
+        window.addEventListener('load', function() { setTimeout(loadGtag, 1200); }, { once: true });
+      }
+      ['scroll', 'keydown', 'touchstart', 'click'].forEach(function(evt) {
+        window.addEventListener(evt, loadGtag, { once: true, passive: true });
+      });
+    })();
   </script>
   
   <!-- Open Graph / Facebook -->
@@ -46,6 +65,11 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
+
+  <!-- Preconnect for Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700&display=swap">
 
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="/assets/css/style.css">
