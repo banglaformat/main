@@ -13,6 +13,12 @@
 /site.webmanifest
   Cache-Control: public, max-age=604800
 
+# ads.txt crawler authorization
+/ads.txt
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=86400
+
 # HTML files with immediate revalidation
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
