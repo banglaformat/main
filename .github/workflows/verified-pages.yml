@@ -1,0 +1,67 @@
+name: Publish verified production archive
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: verified-pages-production
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Verify immutable release and extract only approved files
+        shell: python
+        run: |
+          import json, hashlib, zipfile
+          from pathlib import Path, PurePosixPath
+          archive = Path('banglaformat-production.zip')
+          expected = '9d06cda7298a91cc999abc4987dbd054b932cb7eb8c6307f4c60c663fbc553b1'
+          manifest = json.loads(Path('manifest.json').read_text())
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
+          assert manifest['archiveSHA256'] == expected
+          approved = {f['path']: f for f in manifest['files']}
+          with zipfile.ZipFile(archive) as z:
+              assert z.testzip() is None
+              assert len(z.namelist()) == len(approved) == 252
+              assert set(z.namelist()) == set(approved)
+              for name in z.namelist():
+                  p = PurePosixPath(name)
+                  assert not p.is_absolute() and '..' not in p.parts and '\\' not in name
+                  data = z.read(name)
+                  assert len(data) == approved[name]['bytes']
+                  assert hashlib.sha256(data).hexdigest() == approved[name]['sha256']
+                  target = Path('verified-dist') / name
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_bytes(data)
+          root = Path('verified-dist')
+          assert (root/'CNAME').read_text().strip() == 'banglaformat.co'
+          assert (root/'ads.txt').read_text().strip() == 'google.com, pub-5724834317757008, DIRECT, f08c47fec0942fa0'
+          pages = list(root.rglob('*.html'))
+          assert len(pages) == 81
+          for page in pages:
+              html = page.read_text(encoding='utf-8')
+              if page.name == '404.html':
+                  assert 'adsbygoogle.js' not in html
+              else:
+                  assert html.count('adsbygoogle.js?client=ca-pub-5724834317757008') == 1
+                  assert 'https://banglaformat.co' in html
+          print('PASS: 252 exact file checksums, 80 canonical pages, domain and current publisher preserved.')
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: verified-dist
+  deploy:
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish verified static release
+        id: deployment
+        uses: actions/deploy-pages@v4
