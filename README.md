@@ -4,14 +4,14 @@ Verified release: 14 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 252 files, 80 canonical pages, 29 font families, 26 downloads. SHA-256: `8b4bc90156d76021dd23fda056e7c77d7ae25d5531d5e94a080b6962d3c0bdc2`.
+- `banglaformat-production.zip`: deployable static site; 252 files, 80 canonical pages, 29 font families, 26 downloads. SHA-256: `d2d9ae45ea20f2e859c26dddcf494a1fdcebeed7a166f2a6168579f56f9b83db`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 391 files. SHA-256: `2e96ea6891c77001ed19c94282d03197aebc3a4ccb677f75df230d42d79166fd`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 393 files. SHA-256: `d5e2d4dc2f032de6c31627d2c84a6964befb6dd90901ad24500a9e8c3db5154d`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
 
-Consistent header link order, labels, active-section indicators and mobile menu accessibility across all pages. Local development preview uses correct multipage routing and excludes private research/source paths. Page content, established URLs, domain, ads authorization and font/license files are preserved.
+SEO corrections clarify certificate, fee-waiver and late-attendance guidance; author names link to the existing editor profile. Only three substantive article sitemap dates were advanced. Font pages retain licenses and previews with visitor-focused selection wording. Header consistency is preserved. Local development preview uses correct multipage routing and excludes private research/source paths. Page content, established URLs, domain, ads authorization and font/license files are preserved.
 
 ## Publish
 
