@@ -11,7 +11,7 @@ This repository keeps only the current release files. Previous commits remain av
 
 ## Current changes
 
-SEO corrections clarify certificate, fee-waiver and late-attendance guidance; author names link to the existing editor profile. Only three substantive article sitemap dates were advanced. Font pages retain licenses and previews with visitor-focused selection wording. Header consistency is preserved. Local development preview uses correct multipage routing and excludes private research/source paths. Page content, established URLs, domain, ads authorization and font/license files are preserved.
+SEO corrections clarify certificate, fee-waiver and late-attendance guidance; author names link to the existing editor profile. Only three substantive article sitemap dates were advanced. Font pages retain licenses and previews with visitor-focused selection wording. Header consistency is preserved. Local development preview uses correct multipage routing and excludes private research/source paths. Established URLs, domain, ads authorization and font/license files are preserved; the three reviewed articles have targeted guidance corrections.
 
 ## Publish
 
