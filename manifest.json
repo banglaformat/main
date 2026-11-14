@@ -91,8 +91,8 @@
       "path": "assets/css/font-platform.css"
     },
     {
-      "bytes": 26691,
-      "sha256": "6c023e064acf261f61f8680cc5c859e942bc55499ad930a88ae1e9e6845d627c",
+      "bytes": 26703,
+      "sha256": "5eb26faa7f93d0f5bd7e4c233da7441efb6f6236a12b939c2112752641280427",
       "path": "assets/css/style.css"
     },
     {
@@ -1262,5 +1262,5 @@
     }
   ],
   "date": "2026-11-14",
-  "archiveSHA256": "d2d9ae45ea20f2e859c26dddcf494a1fdcebeed7a166f2a6168579f56f9b83db"
+  "archiveSHA256": "b02e8e52d197aee4efb56c2cf010f19b68f5772cf9564a4d4b4f32f5d086e958"
 }
