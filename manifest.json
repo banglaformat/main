@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "archiveSHA256": "9d06cda7298a91cc999abc4987dbd054b932cb7eb8c6307f4c60c663fbc553b1",
+  "date": "2026-11-14",
+  "archiveSHA256": "8b4bc90156d76021dd23fda056e7c77d7ae25d5531d5e94a080b6962d3c0bdc2",
   "files": [
     {
       "path": ".nojekyll",
@@ -9,13 +9,8 @@
     },
     {
       "path": "404.html",
-      "bytes": 12515,
-      "sha256": "629e93a6a211ea476cc21303b36085fd167d46f6c6caf14e663f7bd93c508c73"
-    },
-    {
-      "path": "CNAME",
-      "bytes": 16,
-      "sha256": "590391975bb900ca950c9613f0d65d53ad6b8b1dfc83f125bc3f3baef89184c7"
+      "bytes": 12686,
+      "sha256": "efc81616bfc2705c78e6883d0c455b0dd96c19541d66ac5f2d3b29d8a1fc3395"
     },
     {
       "path": "_headers",
@@ -24,63 +19,63 @@
     },
     {
       "path": "about/index.html",
-      "bytes": 15354,
-      "sha256": "b0621cdca6fecaa5137c9c7d86845669d37a2eee3e81b4d54ea3982bbd4ea7c8"
+      "bytes": 15571,
+      "sha256": "0c43fe9236683683f7ce6d02fe6bcefe965768561c7b9609d84a2d2eea5d0c7f"
     },
     {
       "path": "academic-applications/admission-with-transfer-certificate/index.html",
-      "bytes": 28494,
-      "sha256": "046504fc96f73a5741d11a5d75834fbd107600836ce96f2d8120f67a19d720a5"
+      "bytes": 28753,
+      "sha256": "d1e4e4f99657bb9de57878190ab0a6e7a5ece97dd7428d43d8b2dda2dec1f4b5"
     },
     {
       "path": "academic-applications/charitrik-sonod-abedon/index.html",
-      "bytes": 53445,
-      "sha256": "0f1e5a46b1c395ecd45c6858c7eddd55a81b11f56de823df3b68478dc9c7663f"
+      "bytes": 53690,
+      "sha256": "4ab9dc40b690aee64de1dcc1f79a3618e3e4add82bc9e49ce26d10ad6e96b433"
     },
     {
       "path": "academic-applications/chutir-abedon-application-school/index.html",
-      "bytes": 39934,
-      "sha256": "f2927f2c2ac509ad203d00f1fd33e0e7ca0b0bdbcde5384df9950974aa0231e9"
+      "bytes": 40179,
+      "sha256": "c620117c014174a1b2f5a774096336aebda0b7a0d3f4bdfa92f2d6ccb0bbc6e6"
     },
     {
       "path": "academic-applications/fee-mokuf-abedon/index.html",
-      "bytes": 42718,
-      "sha256": "736ab29fe6f11a4697e45dbf353f3ce033ebf4869d4bc6f81019ff7230b70174"
+      "bytes": 42963,
+      "sha256": "8c6bbed095a339b917a8fce479c785bb5133d5e9a201cb145dd6b422c9143a56"
     },
     {
       "path": "academic-applications/hostel-leaving-application/index.html",
-      "bytes": 28425,
-      "sha256": "fac06949643e5c21e0365c91dba16246fd804f9edf19efe652a73f86bac8dd88"
+      "bytes": 28684,
+      "sha256": "27ab0bea2c023aed9dd9aebe93c311345119450c0599c750fe715ca99139132b"
     },
     {
       "path": "academic-applications/hostel-seat-allocation-abedon/index.html",
-      "bytes": 51249,
-      "sha256": "aa84151961ec26a29b12f41db5eb80de138a35b8c5e2bfed46d32227d8488292"
+      "bytes": 51494,
+      "sha256": "535ba71ae15fa8ecc23a109c766b8623170c9694c3a686786b0dc1dbcd590f9a"
     },
     {
       "path": "academic-applications/id-card-hariye-gele-abedon/index.html",
-      "bytes": 51813,
-      "sha256": "2de75cc6ca4ce25c82492c07bb496b7ef10aa4d00fc6cbf004dd5132297c4a60"
+      "bytes": 52058,
+      "sha256": "eb977f4be09e3a6f1b87c10f82c3f15553de07c8f58a8248d02008635f0fa310"
     },
     {
       "path": "academic-applications/index.html",
-      "bytes": 20097,
-      "sha256": "6021a275f4b99d7bd45306e03bac028b60760058d4ec492dc3c11e08bf34cb9a"
+      "bytes": 20334,
+      "sha256": "5eaf16f39bd14877576f37fa81c79df0140fd68fa02df26aad4f6c3b580c4224"
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon/index.html",
-      "bytes": 45412,
-      "sha256": "002181ca4761aa8fe4cf8eb6fab4b187c0716e3e65486d5fd821f294b1a162d7"
+      "bytes": 45657,
+      "sha256": "5be9bb0c545f390c516ce3d0c8f64216c394fd0879fa2228df6652ea6baae977"
     },
     {
       "path": "academic-applications/porikkhay-onuposthitir-abedon/index.html",
-      "bytes": 41664,
-      "sha256": "547d4d43d759f823b8f56ec0dab30ca0a9ede26b3e6bac4c8b40e5b007e6930b"
+      "bytes": 41909,
+      "sha256": "9bc82753df8a0b82d29da848af4dba0b3b06c254f453bbe45040606ec2a5dd0f"
     },
     {
       "path": "academic-applications/tc-abedon-transfer-certificate/index.html",
-      "bytes": 53612,
-      "sha256": "54bbe4d8feefdeb66fa86b6b039c54199fab0788213f57c07d46b42f870a7a7c"
+      "bytes": 53857,
+      "sha256": "07e4a9c995b64055d0a73fca69d2cf766c3241d50ec82ee646ab2b7ed4a423fd"
     },
     {
       "path": "ads.txt",
@@ -248,51 +243,6 @@
       "sha256": "adae858d83ec3f8cf2bf9146f73391f8f6f68352860668c3f3dd7e1ca89e2b0c"
     },
     {
-      "path": "assets/fonts/AnekBangla-Variable.preview.woff2",
-      "bytes": 578084,
-      "sha256": "e70ec3af6003211781f206a6d74f1f4729581af3f40c173a9538c6bfeacf65a1"
-    },
-    {
-      "path": "assets/fonts/AnekBangla-Variable.ttf",
-      "bytes": 1344456,
-      "sha256": "8b4ec2eaf7400ea9903718a4addf3135475292e6e0b04db7735d0f999289d919"
-    },
-    {
-      "path": "assets/fonts/HindSiliguri-Regular.preview.woff2",
-      "bytes": 88444,
-      "sha256": "c86c6868f659ffb69c2704becd99741674e9fe030d518dc882eaf0f76389d4a4"
-    },
-    {
-      "path": "assets/fonts/HindSiliguri-Regular.ttf",
-      "bytes": 250052,
-      "sha256": "45071a7da902a74877f432722f525d00502d61aef71fca4cab3da8a23156c33d"
-    },
-    {
-      "path": "assets/fonts/NOTO-LICENSE-AND-ATTRIBUTION.txt",
-      "bytes": 5208,
-      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
-    },
-    {
-      "path": "assets/fonts/NotoSansBengali-Regular.preview.woff2",
-      "bytes": 70148,
-      "sha256": "3fee3763bb6e34f2d278c86d09d9e7af0936a41ab5bc6c9d3208246973ed5ad0"
-    },
-    {
-      "path": "assets/fonts/NotoSansBengali-Regular.ttf",
-      "bytes": 201964,
-      "sha256": "9bb35b3547829ecc42041b6017e87fd4c5f1da1edcd00f59171777050f346018"
-    },
-    {
-      "path": "assets/fonts/NotoSerifBengali-Regular.preview.woff2",
-      "bytes": 84716,
-      "sha256": "1e0d6a9e5c920786f09ec4eb45b7691b61919814abffbc1a21511f227d925849"
-    },
-    {
-      "path": "assets/fonts/NotoSerifBengali-Regular.ttf",
-      "bytes": 263204,
-      "sha256": "32b4aeb731e3819d7a31216c885208a96e402ceeebb30fc39723b99220708fef"
-    },
-    {
       "path": "assets/fonts/alkatra-LICENSE.txt",
       "bytes": 5112,
       "sha256": "3ab1d9222d93aa456e476f92a71f0cc43d370682d604d6cb7c37188b1141da49"
@@ -321,6 +271,16 @@
       "path": "assets/fonts/anek-bangla.zip",
       "bytes": 806581,
       "sha256": "9313bd837387f846aac291ca6808ea092f6843222f4682b4402c5c79a89dd5c2"
+    },
+    {
+      "path": "assets/fonts/AnekBangla-Variable.preview.woff2",
+      "bytes": 578084,
+      "sha256": "e70ec3af6003211781f206a6d74f1f4729581af3f40c173a9538c6bfeacf65a1"
+    },
+    {
+      "path": "assets/fonts/AnekBangla-Variable.ttf",
+      "bytes": 1344456,
+      "sha256": "8b4ec2eaf7400ea9903718a4addf3135475292e6e0b04db7735d0f999289d919"
     },
     {
       "path": "assets/fonts/atma-LICENSE.txt",
@@ -663,6 +623,16 @@
       "sha256": "e53609a4201ad3589d90cf7c7760ef4efbad569de396ebec8b7e10f53d4b95b1"
     },
     {
+      "path": "assets/fonts/HindSiliguri-Regular.preview.woff2",
+      "bytes": 88444,
+      "sha256": "c86c6868f659ffb69c2704becd99741674e9fe030d518dc882eaf0f76389d4a4"
+    },
+    {
+      "path": "assets/fonts/HindSiliguri-Regular.ttf",
+      "bytes": 250052,
+      "sha256": "45071a7da902a74877f432722f525d00502d61aef71fca4cab3da8a23156c33d"
+    },
+    {
       "path": "assets/fonts/mina-LICENSE.txt",
       "bytes": 5087,
       "sha256": "4b580bb1440a8432147647d1018d2d978a8349c66fd98902d31ce946a5c90fb8"
@@ -723,9 +693,9 @@
       "sha256": "d6b62b6a1cc0b890c3cca5549d757107383054fed4d8fc68a3f5ecb7b6477420"
     },
     {
-      "path": "assets/fonts/noto-sans-bengali-web-OFL.txt",
-      "bytes": 4383,
-      "sha256": "754f0e221aa7d5a915489f3bf1f20fe53ddc35ab2834a4d91656d78f9622de70"
+      "path": "assets/fonts/NOTO-LICENSE-AND-ATTRIBUTION.txt",
+      "bytes": 5208,
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125"
     },
     {
       "path": "assets/fonts/noto-sans-bengali-web-bengali.woff2",
@@ -743,6 +713,11 @@
       "sha256": "814167d71aec0f1c1e678e23c5317dd977f9c464e06678a7bb132c6cbbe36da8"
     },
     {
+      "path": "assets/fonts/noto-sans-bengali-web-OFL.txt",
+      "bytes": 4383,
+      "sha256": "754f0e221aa7d5a915489f3bf1f20fe53ddc35ab2834a4d91656d78f9622de70"
+    },
+    {
       "path": "assets/fonts/noto-sans-bengali.zip",
       "bytes": 99378,
       "sha256": "e9397f858c3c8033eef551d4fe79c46c258196b0ce2fd61cf5fe195eb741b128"
@@ -751,6 +726,26 @@
       "path": "assets/fonts/noto-serif-bengali.zip",
       "bytes": 116787,
       "sha256": "5d287a46fc0b730392c2cf2e182268d70b20c380ae606f56d909b6d416f83c30"
+    },
+    {
+      "path": "assets/fonts/NotoSansBengali-Regular.preview.woff2",
+      "bytes": 70148,
+      "sha256": "3fee3763bb6e34f2d278c86d09d9e7af0936a41ab5bc6c9d3208246973ed5ad0"
+    },
+    {
+      "path": "assets/fonts/NotoSansBengali-Regular.ttf",
+      "bytes": 201964,
+      "sha256": "9bb35b3547829ecc42041b6017e87fd4c5f1da1edcd00f59171777050f346018"
+    },
+    {
+      "path": "assets/fonts/NotoSerifBengali-Regular.preview.woff2",
+      "bytes": 84716,
+      "sha256": "1e0d6a9e5c920786f09ec4eb45b7691b61919814abffbc1a21511f227d925849"
+    },
+    {
+      "path": "assets/fonts/NotoSerifBengali-Regular.ttf",
+      "bytes": 263204,
+      "sha256": "32b4aeb731e3819d7a31216c885208a96e402ceeebb30fc39723b99220708fef"
     },
     {
       "path": "assets/fonts/preview-provenance.json",
@@ -879,208 +874,213 @@
     },
     {
       "path": "bangla-fonts/alkatra/index.html",
-      "bytes": 17561,
-      "sha256": "874ee6a9f029bbe6e280131ab4bd4ee62044edfcb5e6411d0021309fb2b8683e"
+      "bytes": 17611,
+      "sha256": "c1b712d3c76d54249599224cb0b5653bea13b87c906b821c22012d5f54271d35"
     },
     {
       "path": "bangla-fonts/anek-bangla/index.html",
-      "bytes": 16884,
-      "sha256": "3d0040deda20c073e75ce174b79ee37aa4e4ccbcb44c977e57bd1a866e78ffd6"
+      "bytes": 16934,
+      "sha256": "4313ffc5681ae38d8af6f0b582daf93e52959036516fea3297ccfc2809d6e52e"
     },
     {
       "path": "bangla-fonts/atma/index.html",
-      "bytes": 17495,
-      "sha256": "bdc169f3d57a2b7c32e1697969b457dd4fa6e02d4e57d7f66f676fc55a67d19a"
+      "bytes": 17545,
+      "sha256": "5ab91129e30679ed071df7fe1641386eb3023066ff8d126938fc8b5f6627edd3"
     },
     {
       "path": "bangla-fonts/baloo-da-2/index.html",
-      "bytes": 17661,
-      "sha256": "fcad677f0b81815e32dcba0b8558e295f9d31ae8b2074833b86a104085d7cd32"
+      "bytes": 17711,
+      "sha256": "c288d0c62bb28cfdec86e2d3fa44edf428adee10bfba47a1fbbb419ca50b6458"
     },
     {
       "path": "bangla-fonts/ekusher-alo/index.html",
-      "bytes": 17868,
-      "sha256": "f9e0c6c8dd6be5aaf94673ae5ae9371280c8f3398fad35dae357a083ad533e13"
+      "bytes": 17918,
+      "sha256": "4f7e15705207ab6ad74404a9f7c77ab5b8658d83053bb583c5e6754329c8af70"
     },
     {
       "path": "bangla-fonts/ekushey-16-december/index.html",
-      "bytes": 17959,
-      "sha256": "c936d28cce5ffc56b9575112815ab6e220c301a72bb4920108d78576f99301d1"
+      "bytes": 18009,
+      "sha256": "1ee7f8f4b8ef9b1d2b4689596ff872f2a4b542fa97312861df6658069826285a"
     },
     {
       "path": "bangla-fonts/ekushey-aloucik/index.html",
-      "bytes": 17760,
-      "sha256": "c68544db8ca26b9d15f11ebb55ec4db1f517e3580ee3f27299bc5d3f1b9829e5"
+      "bytes": 17810,
+      "sha256": "92fd6038b847e71223d09f0cacb77ca4ac859898c495366954653fd2fc04fcdb"
     },
     {
       "path": "bangla-fonts/ekushey-amar-bangla/index.html",
-      "bytes": 18080,
-      "sha256": "993cac28eede47552efb5db8d2d9787386a04d6126b620c6ad65a16e6e11e042"
+      "bytes": 18130,
+      "sha256": "d5c69409d3fa8279c0c3af8a5267abab4e0263ae447192363f2905068e8c9301"
     },
     {
       "path": "bangla-fonts/ekushey-amar-desh/index.html",
-      "bytes": 17852,
-      "sha256": "fbb76688c69c1fdbf093f251de0dfc91eff092cbfe26905a9fa6988cc2cfa69f"
+      "bytes": 17902,
+      "sha256": "ff92eea6c58110843f6e27ee0e029b80a93c4e381421323ae6d0dc0a8cd80f4b"
     },
     {
       "path": "bangla-fonts/ekushey-ananta/index.html",
-      "bytes": 17941,
-      "sha256": "06d64bddd4a43f4ad9a12327107860d46b79e022aba89da69638348dbc1fdc6f"
+      "bytes": 17991,
+      "sha256": "7a7112c8385311537b1ec8e80c7877c31b12480bc782ebd1cfe446fe1f5be211"
     },
     {
       "path": "bangla-fonts/ekushey-bangla-kolom/index.html",
-      "bytes": 18019,
-      "sha256": "8a33836b201c3b74e126a9262aa964b6bd97abda00f5ed17fcb646ab38c92e7f"
+      "bytes": 18069,
+      "sha256": "4bd6a0a0dddbfa3ce81f5d3d2052294ae734f662692e528aeb918b74213b68fd"
     },
     {
       "path": "bangla-fonts/ekushey-belycon/index.html",
-      "bytes": 17827,
-      "sha256": "3115647f93d9cb85c0e5a86787d97e71d7cebc1558af0bc3fc5501b6404f2f60"
+      "bytes": 17877,
+      "sha256": "7f2978dae25c20a21e390841a214622bca9802485070319f014c82833b42df32"
     },
     {
       "path": "bangla-fonts/ekushey-lekhani/index.html",
-      "bytes": 17771,
-      "sha256": "f0bb48adf07ccf32b4af3339e523a7a2b6660433f37e82689031e090ee260bfa"
+      "bytes": 17821,
+      "sha256": "6e5d6e06f906b40a5fc02d96faf613d9df6bf81e008ddafdc65fc30c6882a944"
     },
     {
       "path": "bangla-fonts/ekushey-lohit/index.html",
-      "bytes": 17897,
-      "sha256": "254596f94d46dee11dd3b594bca2da32d57a6eb91a85d6f4bbeeb8143cdf4c20"
+      "bytes": 17947,
+      "sha256": "e98f25b3e44e4716b59df4391f0d719240d07718b61482d76dfe81cc98c0974e"
     },
     {
       "path": "bangla-fonts/ekushey-mukto/index.html",
-      "bytes": 17831,
-      "sha256": "376c5d9fcfd213d37e83557917c325afca674a352e3b384007ba24b0e33cf7c0"
+      "bytes": 17881,
+      "sha256": "fc09a71cbdcaa45c143972ade7b3afa6ad5b1104ca4d82d9a6707f9c51c3f78d"
     },
     {
       "path": "bangla-fonts/ekushey-shimanto/index.html",
-      "bytes": 17819,
-      "sha256": "99d56cff51edca567272810129f39002cb0d53522e271429b703ba069771c12f"
+      "bytes": 17869,
+      "sha256": "386ab5c72b5e905b88730829eab62d17ab596330b481bc0ba6234dd424110b60"
     },
     {
       "path": "bangla-fonts/ekushey-sornaly/index.html",
-      "bytes": 17768,
-      "sha256": "9dde686fbf63d11912197d0fe349ee4e2eea5c222c9da69f5dda27e607fc4e55"
+      "bytes": 17818,
+      "sha256": "4fde0b1f94f33ea03d6843f1f2ad241bc144e2898361e9cbb63d6ebb939eb2eb"
     },
     {
       "path": "bangla-fonts/galada/index.html",
-      "bytes": 17574,
-      "sha256": "b3bbab48a5fa99ddb9b50dab1065a2f29ed4a05622f85764d0fad96962e68f1f"
+      "bytes": 17624,
+      "sha256": "188c66d0440357d2724182f73f05eaef65a536bee0bb816111ebd47f3ca5cf6c"
     },
     {
       "path": "bangla-fonts/hind-siliguri/index.html",
-      "bytes": 16910,
-      "sha256": "2eb1de6596ff4eb9a1819d09c4a369d955b5a2ca8b0e2d921b6cc80fbf8d0172"
+      "bytes": 16960,
+      "sha256": "4ad4f601ae9f9a179c3c8177718d6db68dafe9746f4a0dfbb2a93c9e1370d4d6"
     },
     {
       "path": "bangla-fonts/index.html",
-      "bytes": 78743,
-      "sha256": "5d06dfcbae67f20539c19e7a3c4bb20a978143bdf774a1ee00edb2f306084fde"
+      "bytes": 78785,
+      "sha256": "8262e76079c7ebf8eba9cec1d29873ded51b052a47e910f65b17cb07579fa304"
     },
     {
       "path": "bangla-fonts/kalpurush/index.html",
-      "bytes": 16716,
-      "sha256": "09d73eda0281dde0f556b5ceb650cef65e4e219048c409ad0edf42f20893b873"
+      "bytes": 16766,
+      "sha256": "214c919f25d9b45a91f384ea2aa45816f81812c81807a0a9696d7d28dac677f6"
     },
     {
       "path": "bangla-fonts/mina/index.html",
-      "bytes": 17540,
-      "sha256": "740894a7ad323a0e68e3b818b38ccc4efe6983a283eaf91988afdd1c73210e5d"
+      "bytes": 17590,
+      "sha256": "b84168658e0e7efa2ce0631553eb0dccfc9eb114e3a40d11729539bbfbce33fb"
     },
     {
       "path": "bangla-fonts/mitra/index.html",
-      "bytes": 17807,
-      "sha256": "dfa07608cc0f8545ebf467a9e7d2ac41268814f54acd3bb210c1f19df5389418"
+      "bytes": 17857,
+      "sha256": "592b085addd07c3d8068d4533d5b3b56cd583e12279510876b6097acd052dd6e"
     },
     {
       "path": "bangla-fonts/mukti/index.html",
-      "bytes": 17633,
-      "sha256": "615f27b1edaf1f918ea845eb07e52573edc9a6587a14030e2149cd83df8e5e2e"
+      "bytes": 17683,
+      "sha256": "39bfa52d65d02d78b3e5b85a59d0e1680f30cb461cc6d29b1a0b473ee5a46a93"
     },
     {
       "path": "bangla-fonts/noto-sans-bengali/index.html",
-      "bytes": 17003,
-      "sha256": "d219bc66c007d0358366ab5e7e70d15c6c2ad76067f156ca43bf0df9ba5c4a6e"
+      "bytes": 17053,
+      "sha256": "5d2bbf1cf382c452bd2ea5f74b96d64465aa2e3976114ad05b03f46d2e11b9dc"
     },
     {
       "path": "bangla-fonts/noto-serif-bengali/index.html",
-      "bytes": 17075,
-      "sha256": "5662beb355954b50684d657c8a0c6c8cd150c28fd6c536f0abaf0017f1a7039a"
+      "bytes": 17125,
+      "sha256": "f453efedd418740fe69e882d8878fc45fe755e1184a79ca827f5a15106e1dcec"
     },
     {
       "path": "bangla-fonts/rupali/index.html",
-      "bytes": 18041,
-      "sha256": "1f95b5f43f3129e3bd0b0a7f29e8899e07d6a9106512519aa08bbac90aae7265"
+      "bytes": 18091,
+      "sha256": "05231b80a725faf170cf2dfb60b3f7b73b6ceb3d5a16fc647797d7b40d26ab35"
     },
     {
       "path": "bangla-fonts/siyam-rupali/index.html",
-      "bytes": 16899,
-      "sha256": "ad52fcb3115906392733cc07c15135c212dcf8effd6429f6fbb05bc7a607403a"
+      "bytes": 16949,
+      "sha256": "f5854fecdf36e5fdf2f794c5783b55ef1603ac8106dc7c94040ffc3f67f07e7d"
     },
     {
       "path": "bangla-fonts/solaimanlipi/index.html",
-      "bytes": 17065,
-      "sha256": "942cb100b10604e13f6cf67dadb9e531f60306894959cce73866c97bc6d3ad85"
+      "bytes": 17115,
+      "sha256": "f24e7b9acd17140b1def33e60bc28564af3eceff18dafa26ef28ab5678c74f15"
     },
     {
       "path": "bangla-fonts/tiro-bangla/index.html",
-      "bytes": 17739,
-      "sha256": "a65fff9568adac7a1d4f027d0d4d4f7f1a99c3f569b93b3dbeba0d973dfacae7"
+      "bytes": 17789,
+      "sha256": "f5a02aad14f18860c51e155a8735e6a42585d78f9afcd8f9fe9f143aadd2965f"
+    },
+    {
+      "path": "CNAME",
+      "bytes": 16,
+      "sha256": "590391975bb900ca950c9613f0d65d53ad6b8b1dfc83f125bc3f3baef89184c7"
     },
     {
       "path": "contact/index.html",
-      "bytes": 18736,
-      "sha256": "63339c0224baf82ec081c482fc207dd24e319d811fe2856962305abb1c5a88d4"
+      "bytes": 18973,
+      "sha256": "51e5e5fd41307d79e9b06fa6d72be742d63c14326f911de75321c544d10b9c54"
     },
     {
       "path": "converters/bijoy-to-unicode/index.html",
-      "bytes": 14177,
-      "sha256": "2e4b86aa5b26bd08e3e49a91f5e6124f9dc9afbe7f623db13cbb16cf69cff68b"
+      "bytes": 14192,
+      "sha256": "3508f156e3d46d9e052caec9d2c63dd8e9e7c414883b94ce2973f2ebc46925aa"
     },
     {
       "path": "cv-resume-templates/ats-friendly-cv-basic-rules/index.html",
-      "bytes": 61445,
-      "sha256": "2fbba8e1d6866a8568eef46204d85ae1187f73cfa4ce74983a667689f515dfac"
+      "bytes": 61690,
+      "sha256": "4cdf9069043390a6f7df437a0098410c4c0820c4acbfed9f29fbdf8d5f12540a"
     },
     {
       "path": "cv-resume-templates/cover-letter-template-job-internship/index.html",
-      "bytes": 49811,
-      "sha256": "aa1bc5e6c4c1b427b093ce6d2aa3da3d109e97d00cb00501462f7de73e8a0ff1"
+      "bytes": 50056,
+      "sha256": "77b4b25b59bce4c8a394c0f937dcede53ea24d81e401740994e457869c602229"
     },
     {
       "path": "cv-resume-templates/cv-objective-skills-writing-guide/index.html",
-      "bytes": 55124,
-      "sha256": "d51dfb18375d5885f50bfa66af2b4f03fa06ce461e53b0ed3a5a74c677dc9c02"
+      "bytes": 55369,
+      "sha256": "1a1dde3122a7bc2b912797e7cba7c9e05c634abd8b487cfccaec1d981723285c"
     },
     {
       "path": "cv-resume-templates/experienced-professional-cv-resume-format/index.html",
-      "bytes": 56979,
-      "sha256": "b2134b3807f55c8a3756c2e5cef676ff53b15a636d8dd44361d44380ffa4f26b"
+      "bytes": 57224,
+      "sha256": "200d8e9755fdc5600df03197aeab3548e63939a4fa08539273a4aa4626e903dd"
     },
     {
       "path": "cv-resume-templates/fresher-cv-format-bangladesh-template/index.html",
-      "bytes": 42623,
-      "sha256": "0f6d30fe4f261bd6b454d39f105058f12993e223b224cc6fe85719a8953115e8"
+      "bytes": 42868,
+      "sha256": "190001df3af6dc6c7225830aaf23676097a9de02405929f8f8840d325c36c765"
     },
     {
       "path": "cv-resume-templates/index.html",
-      "bytes": 17453,
-      "sha256": "f00ccbc7cc9272fd44f4aa54b081ea0c23e080a3f9d46fa162da9fdc297c7675"
+      "bytes": 17690,
+      "sha256": "a73813dd368b25a7a9c753b24d3e2e5592820e61033680be0b38e79ccd6bfe4f"
     },
     {
       "path": "cv-resume-templates/teacher-cv-resume-format-bangladesh/index.html",
-      "bytes": 41563,
-      "sha256": "a0a0671f14256210e5b5845fa578ef6e753c6bc85674f93d9e085553a093b779"
+      "bytes": 41808,
+      "sha256": "79a7875b985dfee152d5a0cb7fb3296c9fcb60efca211c715dc05ac30bfe716f"
     },
     {
       "path": "disclaimer/index.html",
-      "bytes": 14894,
-      "sha256": "50c1d1f51279ffc1eea9c5b40e66013b1563541a526c9a69f47f4a2c9dd409d7"
+      "bytes": 15091,
+      "sha256": "50b14208dce2854cd81c7010c331d05e0b037a951b8b1d57084432bca21740d6"
     },
     {
       "path": "editorial-policy/index.html",
-      "bytes": 14770,
-      "sha256": "43ead46b6684c1158a940e3c6cc9908251a17b4cc78c7af4da8a90bba59c357f"
+      "bytes": 14967,
+      "sha256": "dfa21ce9fac1e712e3ce44cab303db4f4f4168fa6da92641fc1c55f5d8161207"
     },
     {
       "path": "favicon-192x192.png",
@@ -1109,18 +1109,18 @@
     },
     {
       "path": "guides/bangla-font-fix/index.html",
-      "bytes": 17049,
-      "sha256": "bd569642be5916017fff7033b2b53d70f7437318109953847d32d329f1c03acd"
+      "bytes": 17064,
+      "sha256": "bb3cd35b9ac607fc81026f5c5d98477790cd86a49a30c1dfbf080d471d720c2b"
     },
     {
       "path": "guides/install-bangla-font/index.html",
-      "bytes": 16661,
-      "sha256": "6921ee6c9f77110707e3a0202e8d877bc4f2bdad1488a16d38d2dad7e5ac9249"
+      "bytes": 16676,
+      "sha256": "81ad2cf6ea3e5dcb8e3cb99b27cb6237c4677ede44a46d554cf3617b4c5614a5"
     },
     {
       "path": "index.html",
-      "bytes": 47336,
-      "sha256": "1169460c526b9f883117ed2fb6bbff37593071516b66a6300331dbdf35560d29"
+      "bytes": 47365,
+      "sha256": "40d42cb74cff44c3cc9c29880683d208260c36e1c253cc71513245ab954410d0"
     },
     {
       "path": "llms.txt",
@@ -1129,118 +1129,118 @@
     },
     {
       "path": "office-letters-notices/employment-verification-letter/index.html",
-      "bytes": 26428,
-      "sha256": "49d174708845273da10698e3c07588cc3a249da9e00def16c31c9eb64ecbf1b0"
+      "bytes": 26687,
+      "sha256": "e634addea6d7c5f4af8f7a0d47dbb5c9ae1ad84550cbe29e1e2e0e26ecd19569"
     },
     {
       "path": "office-letters-notices/experience-certificate-format/index.html",
-      "bytes": 54605,
-      "sha256": "fb0b7445832d4135087cf3da520e24132f5617fe510b6f1b287c1a2bf4379add"
+      "bytes": 54850,
+      "sha256": "3c69a1154f5053f9aaaa4b1827c28704018e64f2cca374b7852053a5ba8d8890"
     },
     {
       "path": "office-letters-notices/handover-letter-format/index.html",
-      "bytes": 26364,
-      "sha256": "2edf7166e3032a23ff5b8a01068ba572a913adad2b0ca8d36db1df7e841067c9"
+      "bytes": 26623,
+      "sha256": "9f795cd79f41dea4d8913c4cf1fe6d9f797e79805e274c2bfa111517a267d5bc"
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 22186,
-      "sha256": "f1a1558965512a019b7b4425ae98c2b52f65de91b7a4c521ba534b195a35f2fb"
+      "bytes": 22423,
+      "sha256": "93afc31d318e719d5866f68a909471887d38b71e0384c0e1976c702252f628c5"
     },
     {
       "path": "office-letters-notices/internship-certificate-format/index.html",
-      "bytes": 28913,
-      "sha256": "e195354837176b61785300df068e1e98b5dbd23ff5b252f2597d689fd0f35be4"
+      "bytes": 29172,
+      "sha256": "dc8495f0c972a298e9d1c2855ff5bfba60f12877abfc2c48491971417ead6ca9"
     },
     {
       "path": "office-letters-notices/job-resignation-letter-bangla-english/index.html",
-      "bytes": 39884,
-      "sha256": "2f1b06bb48a2a3fb9f8717935001bf4cf4112cc17f9c567fc4ef633663526099"
+      "bytes": 40129,
+      "sha256": "d882664abe0401df585d2b47c6c8012efe3d6e94dbb7b1dabe92b945cee64721"
     },
     {
       "path": "office-letters-notices/joining-letter-format/index.html",
-      "bytes": 28223,
-      "sha256": "564201c9d7350026b83f8574a8ddb6db6a2e6456063b834d3b94599f80853144"
+      "bytes": 28482,
+      "sha256": "53f4ff166e5e2653289e43336f140ee44c33b09f202e44976b142acc4efa970d"
     },
     {
       "path": "office-letters-notices/late-attendance-explanation-letter/index.html",
-      "bytes": 38149,
-      "sha256": "57f4720513ec81f42695ef85eb8d2b2cf685dff0817d2f4713e0321d74750349"
+      "bytes": 38394,
+      "sha256": "50c5c8695010e1c42907d3e9254ea3557db1d0902fb7463dcb621219d6c38607"
     },
     {
       "path": "office-letters-notices/meeting-minutes-mom-template-rules/index.html",
-      "bytes": 38245,
-      "sha256": "ce65b3887796f5248418847f805b175a7f4b4a49cfeb80d7e795d58c79113ed7"
+      "bytes": 38490,
+      "sha256": "d3b41e01c54c5d805d9533d9a7420840e788be783ab2772b0d0eb3cb10a7ac6e"
     },
     {
       "path": "office-letters-notices/office-leave-application-casual-medical/index.html",
-      "bytes": 57704,
-      "sha256": "10ee83363b8e3640f643db1e684724eaadfe658a9e10ea2c6cf1579abf05de36"
+      "bytes": 57949,
+      "sha256": "f8913bae62357d1bd939c023c89e66c27a857f44122ff0a148aa5066d888c000"
     },
     {
       "path": "office-letters-notices/office-memo-format-sample/index.html",
-      "bytes": 51267,
-      "sha256": "6c1e2b8ba014afbabcd4113db5d225fbd8e43278429d43316a46c2e5fe18bcad"
+      "bytes": 51512,
+      "sha256": "9ce54a545512d0706e7f4e480431efbca44c1f256085b0fc13eb5f89ee2b3e3c"
     },
     {
       "path": "office-letters-notices/office-notice-format-timing-holiday-meeting/index.html",
-      "bytes": 36920,
-      "sha256": "8cc1acd4c962e36fc5ffd18a1575b3d33a9f53cffb10287d9b69b27651335cd4"
+      "bytes": 37165,
+      "sha256": "d28e534256350d25e1bee7e74ee216ce7b26239fb45a6c2a52a7780a5a647945"
     },
     {
       "path": "office-letters-notices/salary-certificate-format/index.html",
-      "bytes": 30489,
-      "sha256": "84e17bc5c1368c700d700043dca50ea617010efbdc4d523ea50c2ab05f407432"
+      "bytes": 30748,
+      "sha256": "1145ca320fe8162e058373c3d4840ceaddd1f0c4269dc3fdf106d808d2afa9eb"
     },
     {
       "path": "office-letters-notices/school-closure-notice/index.html",
-      "bytes": 28310,
-      "sha256": "cf169d5cf96058eb3f258b6b4a732ca16e8986227c32837bf0cc72f79ba93b05"
+      "bytes": 28569,
+      "sha256": "218e7536dc415b1fa840dbee1ee0cbf21eb7068baefc7c1c6df5f0d489d9cf9b"
     },
     {
       "path": "privacy-policy/index.html",
-      "bytes": 22948,
-      "sha256": "c3314c3ed427d7ce81ccc3188b3ae6755dd74ebd125a36a7b3d9ee3f3701027e"
+      "bytes": 23145,
+      "sha256": "6c693ba640121e0eedadbeb9b6eef2eb92619195ab04793d926dcd117407aae3"
     },
     {
       "path": "professional-emails/complaint-email-delivery-service-refund/index.html",
-      "bytes": 44956,
-      "sha256": "a73b53f3d52d343b226592f8cb8c297ac862db654d183cb0b31b39a82b8bef31"
+      "bytes": 45201,
+      "sha256": "8c853f1ecfb6ad216fec388b2c14fb3de54f9a3e5ff7902c5b525b062e1cd5e8"
     },
     {
       "path": "professional-emails/email-attachment-etiquette-naming-size/index.html",
-      "bytes": 43547,
-      "sha256": "6cd6b08c17da720d9b49a626c7e11cce9b1cff487c7bb863d8aa8d39a88ea5b9"
+      "bytes": 43792,
+      "sha256": "c600e48bdc3010e507d688bb2cf4296e7e5a0b9d54f85125c9addf84d0bc8b32"
     },
     {
       "path": "professional-emails/email-subject-line-rules-examples/index.html",
-      "bytes": 46454,
-      "sha256": "ff99a9376a2b7d58e9177e70aa2e4d8dd5b571c10d7c1ce37aed112cf8c709f6"
+      "bytes": 46699,
+      "sha256": "5a3053d5a37ec166445d6d72eda51c312ec1e939170111c335cc206308caac8f"
     },
     {
       "path": "professional-emails/index.html",
-      "bytes": 17514,
-      "sha256": "e4af5d0ac7ecdb24a6c407b16be9bfc2a22a7e606290400554765864bad3f606"
+      "bytes": 17751,
+      "sha256": "2ac20fdb82cb5279c7cf297c3944b9555ce9602016848cbf21dd2a7035e89db3"
     },
     {
       "path": "professional-emails/job-application-email-sample/index.html",
-      "bytes": 28096,
-      "sha256": "b9d4ba25fcf2662331735d009405d1da7715250170a289aea971411b48e06fd5"
+      "bytes": 28355,
+      "sha256": "8db337452cae4eb98d8c17dc2864eb2247f08c5ac354acc172b7b9008721fe8e"
     },
     {
       "path": "professional-emails/job-inquiry-email-sample/index.html",
-      "bytes": 45348,
-      "sha256": "9a2b1a830714f19b673558ce7b8c5718553f99f5b5d65bf357b8b825dea661c1"
+      "bytes": 45593,
+      "sha256": "38a6dcf75a91bba17cd1c7abe6d1d16204f506a49efe6c421acbb07b018ae499"
     },
     {
       "path": "professional-emails/leave-request-email-sample/index.html",
-      "bytes": 44023,
-      "sha256": "1cab3f9eed7a63df17f2262deb0a960a0e49b1323962667f57a9a1c411ab7d74"
+      "bytes": 44268,
+      "sha256": "bea5d3b502e581c6e66295ae567a85ad6462a0762c392cae385e8d2cad64d3aa"
     },
     {
       "path": "professional-emails/post-interview-follow-up-email/index.html",
-      "bytes": 46464,
-      "sha256": "2380e13330eb4b13f23354ca9d425f3dd7153fcc3a78f16e573545a62f2ffc11"
+      "bytes": 46709,
+      "sha256": "af18b2e46f3250b5f0f39eb8dfabb656d4277566d120dd0dd68d4baedc2e0177"
     },
     {
       "path": "robots.txt",
@@ -1259,8 +1259,8 @@
     },
     {
       "path": "terms/index.html",
-      "bytes": 15110,
-      "sha256": "2cb300f1d20a461eb0c5d942dffc00241d7c6c0cf8eea714ddbb1dfcf7984e19"
+      "bytes": 15307,
+      "sha256": "83a9b7be167507f601489c5351b8ccd68f3d1429def8e1838cd1df61989c3419"
     }
   ]
 }
