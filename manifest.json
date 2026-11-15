@@ -1,11 +1,7 @@
 {
-  "archiveSHA256": "67ede6e783459c05d9f2df86c33751fdfa31a74fc2ff2bdaa377c5fd4fb884ba",
+  "date": "2026-11-15",
+  "archiveSHA256": "935a194ec3b23cce36364cb5b63d714e3bed39557c55c8c329df175211eed1b8",
   "files": [
-    {
-      "path": "_headers",
-      "bytes": 458,
-      "sha256": "b4f637049fc88e4885f7eb1ba2e95be4d761b477d63df451bfb83b08fbdb3677"
-    },
     {
       "path": ".nojekyll",
       "bytes": 44,
@@ -17,6 +13,11 @@
       "sha256": "5688cb890975f9a70b705a91a934e5a3a06237468efce0e9f3b86de0d9865314"
     },
     {
+      "path": "_headers",
+      "bytes": 458,
+      "sha256": "b4f637049fc88e4885f7eb1ba2e95be4d761b477d63df451bfb83b08fbdb3677"
+    },
+    {
       "path": "about/index.html",
       "bytes": 42356,
       "sha256": "bb8af22e3e8ebcce09ea8fedde53fe2a4747ce7f58d6e549ccca7c6bf22020ac"
@@ -25,6 +26,11 @@
       "path": "academic-applications/admission-with-transfer-certificate/index.html",
       "bytes": 55436,
       "sha256": "d5f21087c5594477529706b3ae6d30267983d64ce32cc384ca1cded850e4a109"
+    },
+    {
+      "path": "academic-applications/certificate-marksheet-collection-application/index.html",
+      "bytes": 52197,
+      "sha256": "020543aaa11a84b139239131112b0c9e98eeea1efe746df98ee571bb0ddd38cb"
     },
     {
       "path": "academic-applications/charitrik-sonod-abedon/index.html",
@@ -58,8 +64,8 @@
     },
     {
       "path": "academic-applications/index.html",
-      "bytes": 47017,
-      "sha256": "18756f255cdec45efe4de7ffa1bfd4439fdb75b8d6add551550112fe92053926"
+      "bytes": 47855,
+      "sha256": "44759be04c35c73be22f96e54a9b8d909831febb92945f3f7bff3a386a7385ec"
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon/index.html",
@@ -95,6 +101,16 @@
       "path": "assets/css/style.css",
       "bytes": 26703,
       "sha256": "5eb26faa7f93d0f5bd7e4c233da7441efb6f6236a12b939c2112752641280427"
+    },
+    {
+      "path": "assets/downloads/certificate-marksheet-collection-application-bangla.txt",
+      "bytes": 2289,
+      "sha256": "c45c5d535e3dd36ef7da3666aa9a16b96ee12aa9d953a798361c47dfcd75a004"
+    },
+    {
+      "path": "assets/downloads/certificate-marksheet-collection-application-english.txt",
+      "bytes": 665,
+      "sha256": "04f190f9b9b8fd43efd38ee2c9f5635b3695e519bbb34f546ddb4e38abad68d9"
     },
     {
       "path": "assets/downloads/emergency-closure.txt",
@@ -187,6 +203,16 @@
       "sha256": "49976a683dd4affad3731b2976eb65420016b8f14431e4934cc273264f4864ec"
     },
     {
+      "path": "assets/downloads/salary-advance-application-bangla.txt",
+      "bytes": 2146,
+      "sha256": "dfd9b9305823d7398e25c2c0cbde93ed6b7fb1fe87609c3047c320ec0b724e64"
+    },
+    {
+      "path": "assets/downloads/salary-advance-application-english.txt",
+      "bytes": 659,
+      "sha256": "688255530b42a9ffb8ee67796aa74e104600421403cb7d3ed5e26814ad256e48"
+    },
+    {
       "path": "assets/downloads/salary-certificate-bangla.docx",
       "bytes": 37544,
       "sha256": "260c911e017ec9b7a0f8b1f009b19d595e8308135a180376c44040f4f78d9f13"
@@ -230,6 +256,16 @@
       "path": "assets/downloads/salary-certificate-request.txt",
       "bytes": 1555,
       "sha256": "1a79aad8e154d34e3c471f2db889672920bfa996b514f474d7b28eba6985e0c8"
+    },
+    {
+      "path": "assets/downloads/salary-increment-application-bangla.txt",
+      "bytes": 2311,
+      "sha256": "60606aaa388b4d62f4953476057b00c2ea8ec9ab2cd1e572e75093d9d652c2ca"
+    },
+    {
+      "path": "assets/downloads/salary-increment-application-english.txt",
+      "bytes": 784,
+      "sha256": "da41730142c61ffe3d23a05e9f6dda782a5134bafa5c84a4ba3f9ad2930a725c"
     },
     {
       "path": "assets/downloads/tc-college-admission.txt",
@@ -872,6 +908,11 @@
       "sha256": "44df7c56e69fc167bef55e132d1889db4c3f2fd7d3e91c89fa6493efede60972"
     },
     {
+      "path": "assets/js/print-guide.js",
+      "bytes": 95,
+      "sha256": "b6d311698f2b12bb919ce432ae1eccd09bfe18b50fbf50583269ab4fe7666116"
+    },
+    {
       "path": "bangla-fonts/alkatra/index.html",
       "bytes": 44287,
       "sha256": "1b2dddb054b81b1b759146b9b21372f0c6952b800de730a7b253b73044604323"
@@ -1143,8 +1184,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 49106,
-      "sha256": "86e8eeea0dec3efab31972818c35dc151aee7261baafb4aab9a0422de3022206"
+      "bytes": 50524,
+      "sha256": "45be585def278d07b83ebb06ec7b37164ca3edac7922fd0e9046eda35be39267"
     },
     {
       "path": "office-letters-notices/internship-certificate-format/index.html",
@@ -1187,9 +1228,19 @@
       "sha256": "45a65685ae36352d271a382de749ad4599086a425f976f7d5615489e29e626fe"
     },
     {
+      "path": "office-letters-notices/salary-advance-application/index.html",
+      "bytes": 50963,
+      "sha256": "d68e4028c03937b99aa3c500efc925743bcf9552d3de06a0b9699e76cd3a5adc"
+    },
+    {
       "path": "office-letters-notices/salary-certificate-format/index.html",
       "bytes": 57431,
       "sha256": "0c5a8899a7dd2d4e3166a12f2c8371f97cb21f54a28998c6e0cd9ce633b84b65"
+    },
+    {
+      "path": "office-letters-notices/salary-increment-application/index.html",
+      "bytes": 50600,
+      "sha256": "99e58a1fafe204a0a00db387e115a646c70124f9540c97e7f834ffebdc025b47"
     },
     {
       "path": "office-letters-notices/school-closure-notice/index.html",
@@ -1253,14 +1304,13 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 9255,
-      "sha256": "a4db703965eacd8d5971f4b872a75b52d4aab32850574a01b6d9b9da1c144985"
+      "bytes": 9652,
+      "sha256": "25497916bc15aefcfd9cd19d747e1f3994d8e15f675357649998cf4a97ea313c"
     },
     {
       "path": "terms/index.html",
       "bytes": 41990,
       "sha256": "396edb2e3a9eb9346e44ab2b6c92b6ae5eb7c9a391d3c3574d083719fc594c05"
     }
-  ],
-  "date": "2026-11-14"
+  ]
 }
