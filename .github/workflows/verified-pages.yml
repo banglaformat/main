@@ -17,7 +17,7 @@ jobs:
           import json, hashlib, zipfile
           from pathlib import Path, PurePosixPath
           archive = Path('banglaformat-production.zip')
-          expected = '561d64b23e2e5d005fdda5d750e8154af8132ff6905633c9ee974625682f5c05'
+          expected = '3de79697cf4c4317ddeea77f36cf6d1f3331f3266bf56372fc8529c1bc6baa16'
           manifest = json.loads(Path('manifest.json').read_text())
           assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
           assert manifest['archiveSHA256'] == expected
