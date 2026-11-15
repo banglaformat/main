@@ -4,12 +4,15 @@ Verified release: 15 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `3e86087266c49973a40952b1309d35570a3ee371e589c29566b9f6f9d9958574`.
+- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `561d64b23e2e5d005fdda5d750e8154af8132ff6905633c9ee974625682f5c05`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 413 files. SHA-256: `8b3e30f5ccf1e1fe0a3456b6faca370df3e65222f70ba512f3327050a81aed8a`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 416 files. SHA-256: `3ac50225cf482f74d8eb0551873cb97b76b68b3fb9bf475fd475fd7a70b61209`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
+
+Sitewide editorial review: 116 targeted passages rewritten across 56 routes, including 29 font introductions. Unsupported outcome promises, universal policy claims, ATS myths and expert-human-review assertions were corrected. Templates, downloads, licenses and routes are retained. The build and preview share the same editorial transformations, with regression checks for text and metadata consistency. AI assistance is disclosed; human authorship or professional approval is not invented.
+
 
 Two new guides cover requesting a release letter and preparing a lost SSC/HSC document replacement application. Four original TXT samples and category links are included. Official board sources are linked; older fees and requirements are not presented as universal current rules.
 
