@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "archiveSHA256": "78147e80d7fff54f46a0b68bf0b46a5f6b891ae128b96c8bc43054b30d9ce370",
+  "archiveSHA256": "3e86087266c49973a40952b1309d35570a3ee371e589c29566b9f6f9d9958574",
   "files": [
     {
       "path": ".nojekyll",
@@ -64,8 +64,13 @@
     },
     {
       "path": "academic-applications/index.html",
-      "bytes": 47829,
-      "sha256": "780ae1967cc7997768b5a8f743dfc97a093c07e53b57cdc5559170f47d89c0ec"
+      "bytes": 48621,
+      "sha256": "047f12499409f16624842ba7b5a52d34a9ef024da773baa0b0326ea3dcb80671"
+    },
+    {
+      "path": "academic-applications/lost-ssc-hsc-certificate-duplicate/index.html",
+      "bytes": 52629,
+      "sha256": "6b4f908dbb4463677cae6c68bceb03a8eb2a5b97ac726f04636f5cedd7a4aa1e"
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon/index.html",
@@ -188,6 +193,16 @@
       "sha256": "03aa9f2bc3676cd9aeec5817473b19d9bab09fd8a2cb260f3176780e9dce4df5"
     },
     {
+      "path": "assets/downloads/lost-ssc-hsc-certificate-duplicate-bangla.txt",
+      "bytes": 1919,
+      "sha256": "e235df2b0879f1999afc60d6abb10daf545cc6ab4c30c3e8c67b088e168359e5"
+    },
+    {
+      "path": "assets/downloads/lost-ssc-hsc-certificate-duplicate-english.txt",
+      "bytes": 626,
+      "sha256": "9ce455b216f342f00d89ab0987fd4bae722b45e16cb94e41dea855ce41c6e16a"
+    },
+    {
       "path": "assets/downloads/permanent-departure.txt",
       "bytes": 2482,
       "sha256": "2934bad10bd9509b2eac5a1c74549df490c53789302fbe85d9b9cca50e06233f"
@@ -196,6 +211,16 @@
       "path": "assets/downloads/planned-closure.txt",
       "bytes": 1673,
       "sha256": "92de4c6d384bf92fa9da8367bcbb7dffbb21adb8e183e7050de819375475a49c"
+    },
+    {
+      "path": "assets/downloads/release-letter-request-bangla.txt",
+      "bytes": 1711,
+      "sha256": "6b48528552dc81a966171c972d5bb7f9a63ebe006f5b66cad3bb8093007f3d37"
+    },
+    {
+      "path": "assets/downloads/release-letter-request-english.txt",
+      "bytes": 489,
+      "sha256": "f88f3ccffe1a4aa7008841fb42410137d32efc6425001b69b7465b9078faf489"
     },
     {
       "path": "assets/downloads/reopening-notice.txt",
@@ -1184,8 +1209,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 50544,
-      "sha256": "dcd195cd3bff3a93b3fde50b0560c14827f241c0fff5ca0c526ef89c2f29ceb8"
+      "bytes": 51230,
+      "sha256": "c62d45bafea298a169ad20932b2ced1f123a7978aed326840ef63a2531466fa3"
     },
     {
       "path": "office-letters-notices/internship-certificate-format/index.html",
@@ -1226,6 +1251,11 @@
       "path": "office-letters-notices/office-notice-format-timing-holiday-meeting/index.html",
       "bytes": 63980,
       "sha256": "45a65685ae36352d271a382de749ad4599086a425f976f7d5615489e29e626fe"
+    },
+    {
+      "path": "office-letters-notices/release-letter-request/index.html",
+      "bytes": 50157,
+      "sha256": "9559a8e1729dd1ca7113e5b4dcd582b7d3b94ba9520f172caaf1f0f7fddd4691"
     },
     {
       "path": "office-letters-notices/salary-advance-application/index.html",
@@ -1304,8 +1334,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 9652,
-      "sha256": "25497916bc15aefcfd9cd19d747e1f3994d8e15f675357649998cf4a97ea313c"
+      "bytes": 9907,
+      "sha256": "4ff4ffb304b93f86b87392764657dc34ce35c7876c9de8562a852d60e2bb80b4"
     },
     {
       "path": "terms/index.html",

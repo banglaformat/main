@@ -4,12 +4,15 @@ Verified release: 15 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 262 files, 83 canonical pages, 29 font families, 26 downloads. SHA-256: `78147e80d7fff54f46a0b68bf0b46a5f6b891ae128b96c8bc43054b30d9ce370`.
+- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `3e86087266c49973a40952b1309d35570a3ee371e589c29566b9f6f9d9958574`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 407 files. SHA-256: `7fa6970506a2baeed1659284256e52afc5e677a572d2f46ff303e5c3ea07d38f`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 413 files. SHA-256: `8b3e30f5ccf1e1fe0a3456b6faca370df3e65222f70ba512f3327050a81aed8a`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
+
+Two new guides cover requesting a release letter and preparing a lost SSC/HSC document replacement application. Four original TXT samples and category links are included. Official board sources are linked; older fees and requirements are not presented as universal current rules.
+
 
 The three November guides and all six downloadable samples have been rewritten in plainer, more specific language. Existing routes and functionality are unchanged. No human authorship, personal experience or professional review is claimed.
 
