@@ -4,12 +4,15 @@ Verified release: 15 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 262 files, 83 canonical pages, 29 font families, 26 downloads. SHA-256: `935a194ec3b23cce36364cb5b63d714e3bed39557c55c8c329df175211eed1b8`.
+- `banglaformat-production.zip`: deployable static site; 262 files, 83 canonical pages, 29 font families, 26 downloads. SHA-256: `78147e80d7fff54f46a0b68bf0b46a5f6b891ae128b96c8bc43054b30d9ce370`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 407 files. SHA-256: `b0882901a107b5ec28b0d42467208f8f74ac530c1623fddeab77220f317d525b`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 407 files. SHA-256: `7fa6970506a2baeed1659284256e52afc5e677a572d2f46ff303e5c3ea07d38f`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
+
+The three November guides and all six downloadable samples have been rewritten in plainer, more specific language. Existing routes and functionality are unchanged. No human authorship, personal experience or professional review is claimed.
+
 
 Three new original guides cover salary review requests, salary advances and ordinary certificate/marksheet collection. Each includes Bangla and English samples, matching TXT downloads and browser print controls. Word/PDF drafts are excluded because their document renderer was unavailable; no unverified Office files are shipped. Existing pages and URLs are retained.
 

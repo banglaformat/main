@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "archiveSHA256": "935a194ec3b23cce36364cb5b63d714e3bed39557c55c8c329df175211eed1b8",
+  "archiveSHA256": "78147e80d7fff54f46a0b68bf0b46a5f6b891ae128b96c8bc43054b30d9ce370",
   "files": [
     {
       "path": ".nojekyll",
@@ -29,8 +29,8 @@
     },
     {
       "path": "academic-applications/certificate-marksheet-collection-application/index.html",
-      "bytes": 52197,
-      "sha256": "020543aaa11a84b139239131112b0c9e98eeea1efe746df98ee571bb0ddd38cb"
+      "bytes": 51250,
+      "sha256": "3d10e5e650c2f20086f33e8864957633471bf79012771ed84d030e5d8c235b57"
     },
     {
       "path": "academic-applications/charitrik-sonod-abedon/index.html",
@@ -64,8 +64,8 @@
     },
     {
       "path": "academic-applications/index.html",
-      "bytes": 47855,
-      "sha256": "44759be04c35c73be22f96e54a9b8d909831febb92945f3f7bff3a386a7385ec"
+      "bytes": 47829,
+      "sha256": "780ae1967cc7997768b5a8f743dfc97a093c07e53b57cdc5559170f47d89c0ec"
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon/index.html",
@@ -104,13 +104,13 @@
     },
     {
       "path": "assets/downloads/certificate-marksheet-collection-application-bangla.txt",
-      "bytes": 2289,
-      "sha256": "c45c5d535e3dd36ef7da3666aa9a16b96ee12aa9d953a798361c47dfcd75a004"
+      "bytes": 1705,
+      "sha256": "1f8b8d74816a4b94231fa5269353e6e1694e5ca4298604276f3cfde7ca1509c4"
     },
     {
       "path": "assets/downloads/certificate-marksheet-collection-application-english.txt",
-      "bytes": 665,
-      "sha256": "04f190f9b9b8fd43efd38ee2c9f5635b3695e519bbb34f546ddb4e38abad68d9"
+      "bytes": 529,
+      "sha256": "6b604ee412dcfec7edd0e76af8b2885eec54d95b208157af53dd2d10d365f1c6"
     },
     {
       "path": "assets/downloads/emergency-closure.txt",
@@ -204,13 +204,13 @@
     },
     {
       "path": "assets/downloads/salary-advance-application-bangla.txt",
-      "bytes": 2146,
-      "sha256": "dfd9b9305823d7398e25c2c0cbde93ed6b7fb1fe87609c3047c320ec0b724e64"
+      "bytes": 1542,
+      "sha256": "c56f80b9b7f419316dce32b9b709faba04403dbb6d717934dfcce4b47d3536b6"
     },
     {
       "path": "assets/downloads/salary-advance-application-english.txt",
-      "bytes": 659,
-      "sha256": "688255530b42a9ffb8ee67796aa74e104600421403cb7d3ed5e26814ad256e48"
+      "bytes": 487,
+      "sha256": "e8373bb445cd4e8067382ba9366788d9e4211469a07f7f8e20c3c2f090e6aa94"
     },
     {
       "path": "assets/downloads/salary-certificate-bangla.docx",
@@ -259,13 +259,13 @@
     },
     {
       "path": "assets/downloads/salary-increment-application-bangla.txt",
-      "bytes": 2311,
-      "sha256": "60606aaa388b4d62f4953476057b00c2ea8ec9ab2cd1e572e75093d9d652c2ca"
+      "bytes": 1619,
+      "sha256": "7b7d310fb67d20580a66c460223c6978989d458b17c61b5f8dd684907a68e271"
     },
     {
       "path": "assets/downloads/salary-increment-application-english.txt",
-      "bytes": 784,
-      "sha256": "da41730142c61ffe3d23a05e9f6dda782a5134bafa5c84a4ba3f9ad2930a725c"
+      "bytes": 572,
+      "sha256": "71670aedeb6895ea1676ed0f93e2f509fedb1decfb80ee0ec4d179d3844e288b"
     },
     {
       "path": "assets/downloads/tc-college-admission.txt",
@@ -1184,8 +1184,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 50524,
-      "sha256": "45be585def278d07b83ebb06ec7b37164ca3edac7922fd0e9046eda35be39267"
+      "bytes": 50544,
+      "sha256": "dcd195cd3bff3a93b3fde50b0560c14827f241c0fff5ca0c526ef89c2f29ceb8"
     },
     {
       "path": "office-letters-notices/internship-certificate-format/index.html",
@@ -1229,8 +1229,8 @@
     },
     {
       "path": "office-letters-notices/salary-advance-application/index.html",
-      "bytes": 50963,
-      "sha256": "d68e4028c03937b99aa3c500efc925743bcf9552d3de06a0b9699e76cd3a5adc"
+      "bytes": 50495,
+      "sha256": "809cb50349ccf547b4dd16d489b9cc14164c66b76e8cbd4977189842d6c4122d"
     },
     {
       "path": "office-letters-notices/salary-certificate-format/index.html",
@@ -1239,8 +1239,8 @@
     },
     {
       "path": "office-letters-notices/salary-increment-application/index.html",
-      "bytes": 50600,
-      "sha256": "99e58a1fafe204a0a00db387e115a646c70124f9540c97e7f834ffebdc025b47"
+      "bytes": 50127,
+      "sha256": "0ffcd7cd85150a8456c5bede813296223ea97779d8a8cb6b6f4dcc1f6850340d"
     },
     {
       "path": "office-letters-notices/school-closure-notice/index.html",
