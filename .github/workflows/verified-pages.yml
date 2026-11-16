@@ -17,14 +17,14 @@ jobs:
           import json, hashlib, zipfile
           from pathlib import Path, PurePosixPath
           archive = Path('banglaformat-production.zip')
-          expected = 'c1e99f1121c31ef7ca0fd24a0cfaed86d653cedf89911cf7b12230855fb4b298'
+          expected = '280c68e8446c45406dd6e81576aa3e5c2bca11a978b080c2c699d0737143cb77'
           manifest = json.loads(Path('manifest.json').read_text())
           assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
           assert manifest['archiveSHA256'] == expected
           approved = {f['path']: f for f in manifest['files']}
           with zipfile.ZipFile(archive) as z:
               assert z.testzip() is None
-              assert len(z.namelist()) == len(approved) == 268
+              assert len(z.namelist()) == len(approved) == 271
               assert set(z.namelist()) == set(approved)
               for name in z.namelist():
                   p = PurePosixPath(name)
@@ -39,7 +39,7 @@ jobs:
           assert (root/'CNAME').read_text().strip() == 'banglaformat.co'
           assert (root/'ads.txt').read_text().strip() == 'google.com, pub-5724834317757008, DIRECT, f08c47fec0942fa0'
           pages = list(root.rglob('*.html'))
-          assert len(pages) == 86
+          assert len(pages) == 87
           for page in pages:
               html = page.read_text(encoding='utf-8')
               if page.name == '404.html':
@@ -47,7 +47,7 @@ jobs:
               else:
                   assert html.count('adsbygoogle.js?client=ca-pub-5724834317757008') == 1
                   assert 'https://banglaformat.co' in html
-          print('PASS: 268 exact file checksums, 85 canonical pages, domain and current publisher preserved.')
+          print('PASS: 271 exact file checksums, 86 canonical pages, domain and current publisher preserved.')
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
