@@ -4,12 +4,15 @@ Verified release: 16 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `c1e99f1121c31ef7ca0fd24a0cfaed86d653cedf89911cf7b12230855fb4b298`.
+- `banglaformat-production.zip`: deployable static site; 271 files, 86 canonical pages, 29 font families, 26 downloads. SHA-256: `280c68e8446c45406dd6e81576aa3e5c2bca11a978b080c2c699d0737143cb77`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 418 files. SHA-256: `89a2e6dc1908f3bff007aa645703a2c6932eb81b22d583fc80312f8aabac4ba2`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 423 files. SHA-256: `c83b3ad149d6f652596857126642b3822b140c002bbd2525972884bf0ab99c18`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
+
+New return-to-work-after-leave guide with scoped Bengali and English samples, checked fictional dates, two matching TXT downloads, copy/print controls, category discovery and truthful organization attribution. No claim of external human/HR approval.
+
 
 Focused review of four excluded guides and two hubs: corrected unsupported school/office leave requirements and parser absolutes, added document-selection guidance, and dated only these six reviewed routes. Existing copyable samples and URLs are retained.
 

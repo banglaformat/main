@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "archiveSHA256": "c1e99f1121c31ef7ca0fd24a0cfaed86d653cedf89911cf7b12230855fb4b298",
+  "archiveSHA256": "280c68e8446c45406dd6e81576aa3e5c2bca11a978b080c2c699d0737143cb77",
   "files": [
     {
       "path": ".nojekyll",
@@ -231,6 +231,16 @@
       "path": "assets/downloads/reopening-notice.txt",
       "bytes": 1320,
       "sha256": "49976a683dd4affad3731b2976eb65420016b8f14431e4934cc273264f4864ec"
+    },
+    {
+      "path": "assets/downloads/return-to-work-after-leave-bangla.txt",
+      "bytes": 1408,
+      "sha256": "02081b1ff14df1179eb46d5185ba49cfd84669053e5fd5480681cc93515c2b69"
+    },
+    {
+      "path": "assets/downloads/return-to-work-after-leave-english.txt",
+      "bytes": 446,
+      "sha256": "02f72ef77823215f3667372cc6cd427dd50c07564f719a18c7ea33846e6cee40"
     },
     {
       "path": "assets/downloads/salary-advance-application-bangla.txt",
@@ -1209,8 +1219,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 53074,
-      "sha256": "27e46de5c4269f06879f10584657e62e83718f4e9a7dd359f485a0b105434bfe"
+      "bytes": 53770,
+      "sha256": "837b3f723e3219079077df5d6336e1d7aedb87a886ee3bd42dcb876fe8ec0e0f"
     },
     {
       "path": "office-letters-notices/internship-certificate-format/index.html",
@@ -1256,6 +1266,11 @@
       "path": "office-letters-notices/release-letter-request/index.html",
       "bytes": 50280,
       "sha256": "d05293c08c4564465247e668919d6631a731e4102b464d0ad82bb6bd05fe293b"
+    },
+    {
+      "path": "office-letters-notices/return-to-work-after-leave/index.html",
+      "bytes": 53021,
+      "sha256": "29debc762f12ade50c52377b1334f37462d39bd7e824e171fac61ac6f654cda4"
     },
     {
       "path": "office-letters-notices/salary-advance-application/index.html",
@@ -1334,8 +1349,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 9907,
-      "sha256": "6a3099482c0e05446531cea082139a0f24041c354bf0410d5b22f5bdb09cb917"
+      "bytes": 10033,
+      "sha256": "1a322d1ce44193aab2367f687f33ec1182b052d7220f5606603afe9a95268b5c"
     },
     {
       "path": "terms/index.html",
