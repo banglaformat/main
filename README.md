@@ -1,15 +1,18 @@
 # Bangla Format final release
 
-Verified release: 15 November 2026. Website: https://banglaformat.co/
+Verified release: 16 November 2026. Website: https://banglaformat.co/
 
 This repository keeps only the current release files. Previous commits remain available for rollback.
 
-- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `3de79697cf4c4317ddeea77f36cf6d1f3331f3266bf56372fc8529c1bc6baa16`.
+- `banglaformat-production.zip`: deployable static site; 268 files, 85 canonical pages, 29 font families, 26 downloads. SHA-256: `c1e99f1121c31ef7ca0fd24a0cfaed86d653cedf89911cf7b12230855fb4b298`.
 - `manifest.json`: matching archive and per-file SHA-256 checksums.
-- `banglaformat-verified-source.zip`: editable source and validation fixtures; 416 files. SHA-256: `043cb4fa43a441cdd5f5d35e8bbd95bb59effb3d66687da59b9e61d8b61e8809`.
+- `banglaformat-verified-source.zip`: editable source and validation fixtures; 418 files. SHA-256: `89a2e6dc1908f3bff007aa645703a2c6932eb81b22d583fc80312f8aabac4ba2`.
 - `.github/workflows/verified-pages.yml`: manually deploys the checksum-verified production archive.
 
 ## Current changes
+
+Focused review of four excluded guides and two hubs: corrected unsupported school/office leave requirements and parser absolutes, added document-selection guidance, and dated only these six reviewed routes. Existing copyable samples and URLs are retained.
+
 
 Accessibility correction: underline inline content links so readers can identify them without relying on color. Advertising and analytics remain active.
 
