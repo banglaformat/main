@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "archiveSHA256": "e1ef6991a1b93bd2db8e6e0c6d971739f7d3589855344901e332b56b0672781d",
+  "archiveSHA256": "c89e026b6707929f579ee65028d965db635c54cb2ec8a5e66d9da3addee3da92",
   "files": [
     {
       "path": ".nojekyll",
@@ -34,8 +34,18 @@
     },
     {
       "path": "academic-applications.html",
-      "bytes": 50404,
-      "sha256": "44dff2f4d7ff12a2bd3a93af5872cbfcbee20a76f08bf8271cf4a96295207a1d"
+      "bytes": 52202,
+      "sha256": "dc073ef5f23c680170472620b73a736e8f917b873b048251466c5f118e7837a7"
+    },
+    {
+      "path": "academic-applications/admission-cancellation-application.html",
+      "bytes": 54286,
+      "sha256": "a72b47e65b824ccb857a2efe5b995347ceff8a8598ed52def5d56515c7f4c108"
+    },
+    {
+      "path": "academic-applications/admission-cancellation-application/index.html",
+      "bytes": 54286,
+      "sha256": "a72b47e65b824ccb857a2efe5b995347ceff8a8598ed52def5d56515c7f4c108"
     },
     {
       "path": "academic-applications/admission-with-transfer-certificate.html",
@@ -119,8 +129,8 @@
     },
     {
       "path": "academic-applications/index.html",
-      "bytes": 50404,
-      "sha256": "44dff2f4d7ff12a2bd3a93af5872cbfcbee20a76f08bf8271cf4a96295207a1d"
+      "bytes": 52202,
+      "sha256": "dc073ef5f23c680170472620b73a736e8f917b873b048251466c5f118e7837a7"
     },
     {
       "path": "academic-applications/lost-ssc-hsc-certificate-duplicate.html",
@@ -153,6 +163,26 @@
       "sha256": "e6581bfef22fae6e06a62d35080e90a3080da70ab4172647896285a5f11ddc48"
     },
     {
+      "path": "academic-applications/school-readmission-application.html",
+      "bytes": 53991,
+      "sha256": "d87ce84b6e52b03dd64290fd4ae97619bc5c12f6a759f6fed709766609f2ff01"
+    },
+    {
+      "path": "academic-applications/school-readmission-application/index.html",
+      "bytes": 53991,
+      "sha256": "d87ce84b6e52b03dd64290fd4ae97619bc5c12f6a759f6fed709766609f2ff01"
+    },
+    {
+      "path": "academic-applications/subject-group-change-application.html",
+      "bytes": 52879,
+      "sha256": "c53258cc2fb3d65c2be9fd216a626e816e39574e83665fb1077e80084c8674b0"
+    },
+    {
+      "path": "academic-applications/subject-group-change-application/index.html",
+      "bytes": 52879,
+      "sha256": "c53258cc2fb3d65c2be9fd216a626e816e39574e83665fb1077e80084c8674b0"
+    },
+    {
       "path": "academic-applications/tc-abedon-transfer-certificate.html",
       "bytes": 80607,
       "sha256": "2e0fd9c09b29ee8391cf663a910443fa308fc9f3b95421cdcd2d3281733b7bae"
@@ -183,6 +213,16 @@
       "sha256": "c687b2ccfc25959fc2c3c979d1d7a34e6a1a0796b16e871692779630570737f6"
     },
     {
+      "path": "assets/downloads/admission-cancellation-bn.txt",
+      "bytes": 1756,
+      "sha256": "a7637de953f8e2a33be759bc50ff59ecbf088e4eb063a0db6322dadb627d1a91"
+    },
+    {
+      "path": "assets/downloads/admission-document-return-paragraph.txt",
+      "bytes": 462,
+      "sha256": "b484f9130fb40ab231ebfa0698252e4655df837ea82954157f51b4950bf213bb"
+    },
+    {
       "path": "assets/downloads/certificate-marksheet-collection-application-bangla.txt",
       "bytes": 1705,
       "sha256": "1f8b8d74816a4b94231fa5269353e6e1694e5ca4298604276f3cfde7ca1509c4"
@@ -191,6 +231,16 @@
       "path": "assets/downloads/certificate-marksheet-collection-application-english.txt",
       "bytes": 529,
       "sha256": "6b604ee412dcfec7edd0e76af8b2885eec54d95b208157af53dd2d10d365f1c6"
+    },
+    {
+      "path": "assets/downloads/editor-publication-letter.txt",
+      "bytes": 1517,
+      "sha256": "71359c66109d922ebd5fac59c4ece1a02c9820fc4720e71611c338575b0c7561"
+    },
+    {
+      "path": "assets/downloads/editor-submission-request.txt",
+      "bytes": 1425,
+      "sha256": "455ccaea4d04e9ca1fd3f2750062ecd46a0d5963642e2fbc1b407567c66aff90"
     },
     {
       "path": "assets/downloads/emergency-closure.txt",
@@ -206,6 +256,21 @@
       "path": "assets/downloads/employment-current-english.txt",
       "bytes": 659,
       "sha256": "cc37000ddf080160f35cfd208761212fb0737dea4df7b52591a49f5b643e6970"
+    },
+    {
+      "path": "assets/downloads/freelance-invoice-blank.txt",
+      "bytes": 890,
+      "sha256": "024026369e18e9da28c1c5afc991f74542af43deb1e8a37d79005cd8431dd42e"
+    },
+    {
+      "path": "assets/downloads/freelance-invoice-example.txt",
+      "bytes": 769,
+      "sha256": "116d0b536fe1bc3e1bfd34e4a94e5b0e37ba0a9a9eff84abaa24a423af9b0bcd"
+    },
+    {
+      "path": "assets/downloads/group-change-application.txt",
+      "bytes": 1569,
+      "sha256": "332519e272b32b7f53b1f3cc9ca38407adc35d84ac7e3b63773edc13bc0bd133"
     },
     {
       "path": "assets/downloads/guardian-request.txt",
@@ -278,6 +343,51 @@
       "sha256": "9ce455b216f342f00d89ab0987fd4bae722b45e16cb94e41dea855ce41c6e16a"
     },
     {
+      "path": "assets/downloads/manpotro-departing-students.txt",
+      "bytes": 1833,
+      "sha256": "1dd253bad4a3c0486ded1c35a0883e9d5eba77c1da8c18b40a13e4b5fe9b9950"
+    },
+    {
+      "path": "assets/downloads/manpotro-guest-recognition.txt",
+      "bytes": 1276,
+      "sha256": "134f980d9897e389182fed3e7c9466e43acec32de0f156d7f5e3544f7640f61e"
+    },
+    {
+      "path": "assets/downloads/manpotro-teacher-farewell.txt",
+      "bytes": 1740,
+      "sha256": "16403bf0a6ab0cf09750c09c85198f2583c368cb7480ff10e1516198a685eec0"
+    },
+    {
+      "path": "assets/downloads/marriage-biodata-about-example.txt",
+      "bytes": 706,
+      "sha256": "e0761bd0ac1777eb0f3ceb175a0d15f55c36b3ca06bb4b7123d791a72f47a531"
+    },
+    {
+      "path": "assets/downloads/marriage-biodata-bn.txt",
+      "bytes": 1841,
+      "sha256": "742a2e45d1686525ca4c2d66e029a49713b294b42c2e8a6d91b0286c6ecf3a29"
+    },
+    {
+      "path": "assets/downloads/marriage-biodata-en.txt",
+      "bytes": 693,
+      "sha256": "4ff7a54b3065d568e07491dc42544630260a06465b8f3e30921690e0e40f91cc"
+    },
+    {
+      "path": "assets/downloads/money-receipt-example-bn.txt",
+      "bytes": 1495,
+      "sha256": "4e77eec923f16734d517673e15db2d47287d15701d2251f7a7b1cb12ff6f27fa"
+    },
+    {
+      "path": "assets/downloads/money-receipt-full-bn.txt",
+      "bytes": 1331,
+      "sha256": "3f8068c220e70031762ba65bd767f176a059d67fab824694eda82354ed5eda04"
+    },
+    {
+      "path": "assets/downloads/money-receipt-partial-en.txt",
+      "bytes": 617,
+      "sha256": "e696d43170ebca1978fe8e26f1e1a2809060721385f0a0f7216c914b4ec19de4"
+    },
+    {
       "path": "assets/downloads/permanent-departure.txt",
       "bytes": 2482,
       "sha256": "2934bad10bd9509b2eac5a1c74549df490c53789302fbe85d9b9cca50e06233f"
@@ -286,6 +396,36 @@
       "path": "assets/downloads/planned-closure.txt",
       "bytes": 1673,
       "sha256": "92de4c6d384bf92fa9da8367bcbb7dffbb21adb8e183e7050de819375475a49c"
+    },
+    {
+      "path": "assets/downloads/promotion-request-bn.txt",
+      "bytes": 2092,
+      "sha256": "d3a767563ec2976f75f45931c2e565bf09d1f4ef9b2b507f50b5b412fa05a9a5"
+    },
+    {
+      "path": "assets/downloads/promotion-request-en.txt",
+      "bytes": 617,
+      "sha256": "b87bac77075d41e910fb00f3dda3690d2609b565495ed7347fd8b08f4f3d8f58"
+    },
+    {
+      "path": "assets/downloads/recommendation-brief.txt",
+      "bytes": 1065,
+      "sha256": "cbca657f8d662e85e000c16b0e9054e4972f398275f47ed3dd7b032a59c2c9d8"
+    },
+    {
+      "path": "assets/downloads/recommendation-reminder-en.txt",
+      "bytes": 329,
+      "sha256": "df9b00f6e5053c01bf1df1227b1fa57b57480e1ca073127b6b1e17ead3df5f63"
+    },
+    {
+      "path": "assets/downloads/recommendation-request-bn.txt",
+      "bytes": 1932,
+      "sha256": "d99d310e9efcb1c250c5cf168f8e9c1c35731f91d45c04a29e279404add5702d"
+    },
+    {
+      "path": "assets/downloads/recommendation-request-en.txt",
+      "bytes": 745,
+      "sha256": "69456ad4cc6a4fa9719572f0d062f41a284818a3cee3320a0ec6327cbb489c28"
     },
     {
       "path": "assets/downloads/release-letter-request-bangla.txt",
@@ -378,6 +518,36 @@
       "sha256": "71670aedeb6895ea1676ed0f93e2f509fedb1decfb80ee0ec4d179d3844e288b"
     },
     {
+      "path": "assets/downloads/salary-slip-blank-bn.txt",
+      "bytes": 1341,
+      "sha256": "9ed0556a9aa41b0e54f27e01b9c551a98f6d1cbb5650b2736b47f3c5df3b377a"
+    },
+    {
+      "path": "assets/downloads/salary-slip-blank-en.txt",
+      "bytes": 602,
+      "sha256": "a12deeba2b336befd162fb2d5ab8b01c4f07c69bd0a07612c0080883d09a5013"
+    },
+    {
+      "path": "assets/downloads/salary-slip-filled-bn.txt",
+      "bytes": 1470,
+      "sha256": "275e1ad3681b9e452e75c90c3d1f13a526eeb8f15d22c4e27d1702768ccc326c"
+    },
+    {
+      "path": "assets/downloads/school-readmission-guardian.txt",
+      "bytes": 1624,
+      "sha256": "f5f7ee66f470b0551709067cc8d5cdab3dd1f7e93f01f6b985b69f6e70b27521"
+    },
+    {
+      "path": "assets/downloads/school-readmission-student.txt",
+      "bytes": 1581,
+      "sha256": "d460b67546dfca71b039749ae28a63726355aa4b038dfd14d7d27bacc6041dbe"
+    },
+    {
+      "path": "assets/downloads/subject-change-application.txt",
+      "bytes": 1544,
+      "sha256": "0bfd5c30add450a756ae4779ee5c3885507584fffefacde2a355ee39b8589553"
+    },
+    {
       "path": "assets/downloads/tc-college-admission.txt",
       "bytes": 2402,
       "sha256": "a0e4bc7f98819ccf70dac3f2d093c31e23c32310d1e7e08b33a0af1adf9aca7e"
@@ -386,6 +556,16 @@
       "path": "assets/downloads/tc-school-admission.txt",
       "bytes": 2353,
       "sha256": "adae858d83ec3f8cf2bf9146f73391f8f6f68352860668c3f3dd7e1ca89e2b0c"
+    },
+    {
+      "path": "assets/downloads/workplace-transfer-bn.txt",
+      "bytes": 2156,
+      "sha256": "467b96c55e37794ed99447b8bae67cb74e9bd429a3aed60bea88bbb502e1ecc2"
+    },
+    {
+      "path": "assets/downloads/workplace-transfer-en.txt",
+      "bytes": 760,
+      "sha256": "7897e74b1c9fae3b997f359f050e916c8bc7c8bf1a965cb25370965c58593b4e"
     },
     {
       "path": "assets/fonts/AnekBangla-Variable.preview.woff2",
@@ -1458,6 +1638,11 @@
       "sha256": "05dfbe3438b9f970bfe7bd28f251d34f2edd8c69b48edd6f33b1fb887c7d3803"
     },
     {
+      "path": "guides.html",
+      "bytes": 38675,
+      "sha256": "b9807daab11383993a9ad622a5602436eb0d8559d93951419f274699b70c2463"
+    },
+    {
       "path": "guides/bangla-font-fix.html",
       "bytes": 43833,
       "sha256": "a21e6480883cfcc7c9c98890974743b0c96cc5cf2173fb6bf56c2675f1f52ce7"
@@ -1466,6 +1651,11 @@
       "path": "guides/bangla-font-fix/index.html",
       "bytes": 43833,
       "sha256": "a21e6480883cfcc7c9c98890974743b0c96cc5cf2173fb6bf56c2675f1f52ce7"
+    },
+    {
+      "path": "guides/index.html",
+      "bytes": 38675,
+      "sha256": "b9807daab11383993a9ad622a5602436eb0d8559d93951419f274699b70c2463"
     },
     {
       "path": "guides/install-bangla-font.html",
@@ -1478,19 +1668,39 @@
       "sha256": "043a844d1f8ce50ae289b4545ead17d52961a4ea64ce69ee4084968c682a6b05"
     },
     {
+      "path": "guides/letter-to-editor-bangla.html",
+      "bytes": 51795,
+      "sha256": "eeac3c9a0fd60385e809385187ae8462a38b3a056404dd27a977fbc7f56bc749"
+    },
+    {
+      "path": "guides/letter-to-editor-bangla/index.html",
+      "bytes": 51795,
+      "sha256": "eeac3c9a0fd60385e809385187ae8462a38b3a056404dd27a977fbc7f56bc749"
+    },
+    {
+      "path": "guides/manpotro-format.html",
+      "bytes": 57567,
+      "sha256": "23546ee2096981dbe4680d366e54ee9ab5da5aaccb3a92b806279b268f862985"
+    },
+    {
+      "path": "guides/manpotro-format/index.html",
+      "bytes": 57567,
+      "sha256": "23546ee2096981dbe4680d366e54ee9ab5da5aaccb3a92b806279b268f862985"
+    },
+    {
       "path": "index.html",
-      "bytes": 72971,
-      "sha256": "3fa055f1a050632e8d2d8353a9777d3cb11162bec5a02f46d7a7a66fe3597243"
+      "bytes": 73231,
+      "sha256": "ff9834b9cf91b1a4829a875bf58f743afd7b9a810f32057901b6f27660a55a95"
     },
     {
       "path": "llms.txt",
-      "bytes": 11046,
-      "sha256": "f67514926707ac87267a2a484e721c4cb250b6e02ee787c83485a5ad9daf1a57"
+      "bytes": 17656,
+      "sha256": "1247600116febd4bd9a8697ce61d5078615a234ad1b373ab8feeb0938d15b0bb"
     },
     {
       "path": "office-letters-notices.html",
-      "bytes": 53713,
-      "sha256": "f18c2420b4af3f4aa40743af5816b4b710f8cf4366b0ce95bd6266e780c794aa"
+      "bytes": 56604,
+      "sha256": "fa3a92838e58bd5e8dedc2746b7922f1eda3233ae3ccfe0857d36723afe47a38"
     },
     {
       "path": "office-letters-notices/employment-verification-letter.html",
@@ -1513,6 +1723,16 @@
       "sha256": "5b46a9c20663a430f07a364f03fda1c9b3c9185b7917fdb7c9f776e8f4b37c29"
     },
     {
+      "path": "office-letters-notices/freelance-invoice-format.html",
+      "bytes": 51638,
+      "sha256": "6051b852c5c2087cbe6e3517912ed7a2dfe81e76de2ece2cc949f528decd283f"
+    },
+    {
+      "path": "office-letters-notices/freelance-invoice-format/index.html",
+      "bytes": 51638,
+      "sha256": "6051b852c5c2087cbe6e3517912ed7a2dfe81e76de2ece2cc949f528decd283f"
+    },
+    {
       "path": "office-letters-notices/handover-letter-format.html",
       "bytes": 53395,
       "sha256": "2eae8279c90ff595b66f8b757f6758a9587f17ff28f3486ff1d717a63cae0014"
@@ -1524,8 +1744,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 53713,
-      "sha256": "f18c2420b4af3f4aa40743af5816b4b710f8cf4366b0ce95bd6266e780c794aa"
+      "bytes": 56604,
+      "sha256": "fa3a92838e58bd5e8dedc2746b7922f1eda3233ae3ccfe0857d36723afe47a38"
     },
     {
       "path": "office-letters-notices/internship-certificate-format.html",
@@ -1578,6 +1798,16 @@
       "sha256": "47e31cf36893f22827ab66fee4c95416a19e8b5f301a073a15adc29f7c851282"
     },
     {
+      "path": "office-letters-notices/money-receipt-format.html",
+      "bytes": 52985,
+      "sha256": "4116de0a3ad5b59ab8871af1cfcb4155712ebd64feb34fd0a3caf5992a269bed"
+    },
+    {
+      "path": "office-letters-notices/money-receipt-format/index.html",
+      "bytes": 52985,
+      "sha256": "4116de0a3ad5b59ab8871af1cfcb4155712ebd64feb34fd0a3caf5992a269bed"
+    },
+    {
       "path": "office-letters-notices/office-leave-application-casual-medical.html",
       "bytes": 82271,
       "sha256": "8f6d3e5519637e0ea71fc9327f85dc1a0b61cfc687f616b3db57894d7946ba0d"
@@ -1606,6 +1836,16 @@
       "path": "office-letters-notices/office-notice-format-timing-holiday-meeting/index.html",
       "bytes": 63226,
       "sha256": "e6b16ee87f42156d0e7a1c6d6a0964044a88f10bcfc63ef7b01f489cc9169418"
+    },
+    {
+      "path": "office-letters-notices/promotion-request-application.html",
+      "bytes": 53754,
+      "sha256": "3ea1d83fb880ac984b7764e8d333b60c93c1d7bc9447238aff61e96348413578"
+    },
+    {
+      "path": "office-letters-notices/promotion-request-application/index.html",
+      "bytes": 53754,
+      "sha256": "3ea1d83fb880ac984b7764e8d333b60c93c1d7bc9447238aff61e96348413578"
     },
     {
       "path": "office-letters-notices/release-letter-request.html",
@@ -1658,6 +1898,16 @@
       "sha256": "41a900dcf7289ce172c145336716f6a448a5c440082e82d9e64689b63314037b"
     },
     {
+      "path": "office-letters-notices/salary-slip-format.html",
+      "bytes": 53013,
+      "sha256": "b1c3d7955dba98453878005395dd95f5323ae24f527055a7d93b5f1685b1f74f"
+    },
+    {
+      "path": "office-letters-notices/salary-slip-format/index.html",
+      "bytes": 53013,
+      "sha256": "b1c3d7955dba98453878005395dd95f5323ae24f527055a7d93b5f1685b1f74f"
+    },
+    {
       "path": "office-letters-notices/school-closure-notice.html",
       "bytes": 55341,
       "sha256": "5600af98ae5666e2d4ce45117ba0bbaa203b118a163cb53f8dcb88f3376ccce0"
@@ -1666,6 +1916,36 @@
       "path": "office-letters-notices/school-closure-notice/index.html",
       "bytes": 55341,
       "sha256": "5600af98ae5666e2d4ce45117ba0bbaa203b118a163cb53f8dcb88f3376ccce0"
+    },
+    {
+      "path": "office-letters-notices/workplace-transfer-request.html",
+      "bytes": 53426,
+      "sha256": "22ea85783babbc6f9555a64956403ccaef5911a2b7cf800bd9daf1a24bbe79ee"
+    },
+    {
+      "path": "office-letters-notices/workplace-transfer-request/index.html",
+      "bytes": 53426,
+      "sha256": "22ea85783babbc6f9555a64956403ccaef5911a2b7cf800bd9daf1a24bbe79ee"
+    },
+    {
+      "path": "personal-documents.html",
+      "bytes": 37833,
+      "sha256": "9d11cd39a478173c9b86335376108fa4074f37743495e224dc520c3ef03c625b"
+    },
+    {
+      "path": "personal-documents/index.html",
+      "bytes": 37833,
+      "sha256": "9d11cd39a478173c9b86335376108fa4074f37743495e224dc520c3ef03c625b"
+    },
+    {
+      "path": "personal-documents/marriage-biodata-format.html",
+      "bytes": 52749,
+      "sha256": "1598786ceb42f573b0443134ba0be25de710fa1d637bbf2e38926e654fc1d318"
+    },
+    {
+      "path": "personal-documents/marriage-biodata-format/index.html",
+      "bytes": 52749,
+      "sha256": "1598786ceb42f573b0443134ba0be25de710fa1d637bbf2e38926e654fc1d318"
     },
     {
       "path": "privacy-policy.html",
@@ -1679,8 +1959,8 @@
     },
     {
       "path": "professional-emails.html",
-      "bytes": 44438,
-      "sha256": "10276934369387be97d8684344f98c5fe1fba3072cd1f218ca8a2c6c1e052a3e"
+      "bytes": 45058,
+      "sha256": "f8f5ebff08ace0a1b68b7af2598e9bb338bd505fc7877922a4e2e7c31c857028"
     },
     {
       "path": "professional-emails/complaint-email-delivery-service-refund.html",
@@ -1714,8 +1994,8 @@
     },
     {
       "path": "professional-emails/index.html",
-      "bytes": 44438,
-      "sha256": "10276934369387be97d8684344f98c5fe1fba3072cd1f218ca8a2c6c1e052a3e"
+      "bytes": 45058,
+      "sha256": "f8f5ebff08ace0a1b68b7af2598e9bb338bd505fc7877922a4e2e7c31c857028"
     },
     {
       "path": "professional-emails/job-application-email-sample.html",
@@ -1758,6 +2038,16 @@
       "sha256": "b09c5bf0b43afe802d1ce6bcb4c4e7821ea450aed78429be91cf5b832e151e4a"
     },
     {
+      "path": "professional-emails/recommendation-letter-request.html",
+      "bytes": 54287,
+      "sha256": "662c2efa2ad2ddf62ef5693ab29d241976fa195b3be09f48beb4ff27ec11371d"
+    },
+    {
+      "path": "professional-emails/recommendation-letter-request/index.html",
+      "bytes": 54287,
+      "sha256": "662c2efa2ad2ddf62ef5693ab29d241976fa195b3be09f48beb4ff27ec11371d"
+    },
+    {
       "path": "robots.txt",
       "bytes": 538,
       "sha256": "5205dcd61ce285b92f2ce43a106c59ee7276f86e5e51882292f156503de073f0"
@@ -1769,8 +2059,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 9948,
-      "sha256": "a71b1e5113b658c9bd154a1810544b7cf27c369570f25c6eb45865e989e7a5c6"
+      "bytes": 11573,
+      "sha256": "99b84fae0b3e9f83abfccee5585831b9c366a528550a5f7d594bf8d470ab6482"
     },
     {
       "path": "terms.html",

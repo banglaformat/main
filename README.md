@@ -1,28 +1,24 @@
-# Bangla Format final release
+# Bangla Format deployed release
 
-Verified release: 18 November 2026. Website: https://banglaformat.co/
+18 November 2026. Domain: https://banglaformat.co/
 
-The existing GitHub Pages host and domain are retained. No DNS change is needed.
+This repository retains the current production package and the configuration needed to verify and publish it. Editable source and private research are retained locally; previous Git commits remain available for rollback.
 
-- `banglaformat-production.zip`: 356 files; 86 canonical routes and 85 identical compatibility pages. SHA256: `e1ef6991a1b93bd2db8e6e0c6d971739f7d3589855344901e332b56b0672781d`.
-- `banglaformat-verified-source.zip`: 425 editable source and validation files. SHA256: `736ba7d51e91f439cf70396f984eef6869c3cb96a6f79c7c8da590f7d6643a2a`.
-- `manifest.json`: production archive and per-file checksums.
-- `.github/workflows/verified-pages.yml`: manually publishes the pinned, checksum-verified archive. Repository history preserves rollback releases.
+- `banglaformat-production.zip`: 414 deployment files, 100 canonical pages, 99 compatibility HTML copies and one ad-free noindex 404. SHA256: `c89e026b6707929f579ee65028d965db635c54cb2ec8a5e66d9da3addee3da92`.
+- `manifest.json`: archive and per-file SHA256 checksums.
+- `.github/workflows/verified-pages.yml`: manual verification and GitHub Pages publishing, with existing permission scopes.
+- `CNAME`: established custom domain.
 
-## URL update
+## Content and style
 
-All 85 non-root page URLs now use the slashless form in links, canonical metadata, structured data and the sitemap. Root remains `/`. GitHub Pages serves clean URLs through matching `.html` files. Existing directory/index.html pages remain accessible with identical content and the same slashless canonical URL. GitHub Pages does not provide configurable HTTP redirects for these old directory URLs; canonical metadata is a consolidation signal, not a guaranteed redirect or indexing outcome. Direct `.html` aliases can also be accessed and have the same clean canonical.
+Twelve distinct articles and two discovery hubs use the established header/footer, embedded stylesheet, article layout, accessible tables, sample boxes, copy/download and print controls. Thirty exact matching TXT samples are included. All page URLs remain slashless in internal links, canonical/social/schema metadata and sitemap. Old slash URLs remain available with the same preferred canonical.
 
-Fonts, downloads, images, runtime JavaScript, analytics, ads authorization, publisher and article wording are preserved. No cosmetic history replacement or custom 404 routing is used. The noindex ad-free 404 remains.
+Reviewed the Bengali wording, placeholder grammar, intended reader tasks, factual limitations, original examples and worked calculations. No external human/expert approval is claimed. AI assistance is disclosed through the existing editorial policy. No ranking, AI citation, indexing or document-acceptance guarantee is made. No special AI schema, fake reviews or keyword-variant pages were added. Existing ads, analytics, fonts, licenses and downloads are retained.
 
-## Validation and editing
+## Validation and publication
 
-Extract the source archive. With Node 24+, run `npm run check:release`. The suite first builds and verifies the original content layout, then produces and validates the final GitHub Pages layout. It checks all clean and compatibility route responses, 4,200 local references and anchors, canonical/social/schema/sitemap alignment and unchanged runtime scripts. `npm run build` directly produces the final layout; `npm run preview` serves it locally. Development dependencies: `npm ci`, `npm run lint`, `node tests/dev-routing.test.mjs`, `npm run dev`.
+The full content/converter/font/editorial/publisher suite, final clean-URL route checks, 30 sample parity checks, type check and 21 dev-routing checks passed. Browser checks cover desktop/mobile layout, navigation and sample copying. The workflow verifies every approved deployment file before publishing.
 
-The production layout has 172 HTML files: 86 canonical pages, 85 compatibility copies and one 404. Each compatibility copy must match its clean-URL HTML file byte for byte. The source snapshots retain their historical URLs; the shared final build transformation makes the deployment policy consistent.
+Run **Publish verified production archive** manually from Actions on main. Ordinary commits do not deploy. Never publish the repository root. Rollback requires restoring the matching prior production archive, manifest and workflow pin from history, then running the same workflow.
 
-## Publish and rollback
-
-After updating the four release files and the pinned workflow, run **Publish verified production archive** manually from Actions on main. Ordinary commits do not deploy. Never publish the repository root or editable source ZIP. For rollback, restore the prior release files and matching workflow pin from repository history and run the same manual workflow.
-
-Removing trailing slashes is a URL preference. It is not a penalty diagnosis or a promise of ranking recovery. Keep the established HTTPS domain. GitHub Pages ignores `_headers`.
+GitHub Pages ignores custom `_headers` behavior; the existing production archive retains its historical configuration. No DNS/hosting migration or expanded repository permission is required.
