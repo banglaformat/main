@@ -17,14 +17,14 @@ jobs:
           import json, hashlib, zipfile
           from pathlib import Path, PurePosixPath
           archive = Path('banglaformat-production.zip')
-          expected = 'e1ef6991a1b93bd2db8e6e0c6d971739f7d3589855344901e332b56b0672781d'
+          expected = 'c89e026b6707929f579ee65028d965db635c54cb2ec8a5e66d9da3addee3da92'
           manifest = json.loads(Path('manifest.json').read_text())
           assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
           assert manifest['archiveSHA256'] == expected
           approved = {f['path']: f for f in manifest['files']}
           with zipfile.ZipFile(archive) as z:
               assert z.testzip() is None
-              assert len(z.namelist()) == len(approved) == 356
+              assert len(z.namelist()) == len(approved) == 414
               assert set(z.namelist()) == set(approved)
               for name in z.namelist():
                   p = PurePosixPath(name)
@@ -39,7 +39,7 @@ jobs:
           assert (root/'CNAME').read_text().strip() == 'banglaformat.co'
           assert (root/'ads.txt').read_text().strip() == 'google.com, pub-5724834317757008, DIRECT, f08c47fec0942fa0'
           pages = list(root.rglob('*.html'))
-          assert len(pages) == 172
+          assert len(pages) == 200
           for page in pages:
               html = page.read_text(encoding='utf-8')
               if page.name == '404.html':
@@ -53,9 +53,9 @@ jobs:
               assert page.read_bytes() == page.parent.with_suffix('.html').read_bytes()
           import re
           urls = re.findall(r'<loc>(.*?)</loc>', (root/'sitemap.xml').read_text())
-          assert len(urls) == len(set(urls)) == 86
+          assert len(urls) == len(set(urls)) == 100
           assert all(u == 'https://banglaformat.co/' or not u.endswith('/') for u in urls)
-          print('PASS: 356 exact file checksums, 86 canonical pages, domain and current publisher preserved.')
+          print('PASS: 414 exact file checksums, 100 canonical pages, domain and current publisher preserved.')
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
