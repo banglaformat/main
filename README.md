@@ -1,24 +1,28 @@
-# Bangla Format deployed release
+# Bangla Format current production release
 
-18 November 2026. Domain: https://banglaformat.co/
+18 November 2026 · https://banglaformat.co/
 
-This repository retains the current production package and the configuration needed to verify and publish it. Editable source and private research are retained locally; previous Git commits remain available for rollback.
+This branch retains only the final production archive, its manifest, this README, CNAME and the existing manual deployment workflow. Previous commits remain available for rollback. Editable source, research, account evidence and old release packages are retained locally and are excluded from production.
 
-- `banglaformat-production.zip`: 414 deployment files, 100 canonical pages, 99 compatibility HTML copies and one ad-free noindex 404. SHA256: `c89e026b6707929f579ee65028d965db635c54cb2ec8a5e66d9da3addee3da92`.
-- `manifest.json`: archive and per-file SHA256 checksums.
-- `.github/workflows/verified-pages.yml`: manual verification and GitHub Pages publishing, with existing permission scopes.
-- `CNAME`: established custom domain.
+- Production archive: 427 files, 101 canonical pages, 100 identical compatibility HTML copies and one noindex 404.
+- SHA256: `c6f21a2650b7b2532e0c119b8e47e8524e22821c0ca57026030480450ee48a3e`.
+- Ten new document files: matching Word/PDF kits for experience certificates, sickness leave, transfer certificates, career objectives and fee waivers. Existing TXT downloads remain available.
+- Thirteen articles from the current content data, including the new four-document job-exit guide, use the established header, footer, sample controls and typography.
 
-## Content and style
+## Corrections and scope
 
-Twelve distinct articles and two discovery hubs use the established header/footer, embedded stylesheet, article layout, accessible tables, sample boxes, copy/download and print controls. Thirty exact matching TXT samples are included. All page URLs remain slashless in internal links, canonical/social/schema metadata and sitemap. Old slash URLs remain available with the same preferred canonical.
+Removed unsupported certificate delivery times, password-sharing advice, categorical clearance statements and institutional requirements. Corrected HR and resignation-to-handover/release links. Distinguished current and former employment. Moved NGO examples before related navigation. Replaced inflated career objectives with editable, task-specific wording. Added clearly fictional completed examples without signatures or invented approval. Existing public routes, publication dates and anchors are preserved; slashless canonical URLs and the existing domain/host remain in use.
 
-Reviewed the Bengali wording, placeholder grammar, intended reader tasks, factual limitations, original examples and worked calculations. No external human/expert approval is claimed. AI assistance is disclosed through the existing editorial policy. No ranking, AI citation, indexing or document-acceptance guarantee is made. No special AI schema, fake reviews or keyword-variant pages were added. Existing ads, analytics, fonts, licenses and downloads are retained.
+AI assistance remains disclosed. No independent human or expert approval, ranking guarantee, legal acceptance guarantee or indexing recovery is claimed. The original traffic-drop cause remains unproven.
 
-## Validation and publication
+## Validation
 
-The full content/converter/font/editorial/publisher suite, final clean-URL route checks, 30 sample parity checks, type check and 21 dev-routing checks passed. Browser checks cover desktop/mobile layout, navigation and sample copying. The workflow verifies every approved deployment file before publishing.
+Release checks, type check, 21 development-routing checks, all canonicals, sitemap alignment, local links, anchors, copy targets and genuine 404 behavior passed. Word/PDF content matches the on-page samples. Bengali rendering and selectable PDF text were checked, and all 25 document pages were visually inspected. Five priority guides passed desktop/mobile navigation, copy and overflow checks. All ten downloads matched their expected bytes. Repeated mobile performance audits retained advertising and analytics; scores varied with third-party execution and hosting context, and CLS remained zero.
 
-Run **Publish verified production archive** manually from Actions on main. Ordinary commits do not deploy. Never publish the repository root. Rollback requires restoring the matching prior production archive, manifest and workflow pin from history, then running the same workflow.
+The static build was repeated and every output-file hash matched. The manual workflow verifies the pinned archive hash and all 427 file hashes before publishing only the extracted production directory.
 
-GitHub Pages ignores custom `_headers` behavior; the existing production archive retains its historical configuration. No DNS/hosting migration or expanded repository permission is required.
+## Deployment and recovery
+
+Run **Publish verified production archive** manually from Actions on main. Ordinary commits do not deploy. The legacy queued run 43799553947 could not be cancelled through the normal GitHub control. Publication proceeds under the owner-approved recovery policy: verify live file hashes after deployment and recheck the old run. If it later overwrites production, restore this matching archive/manifest/workflow and publish through the same verified workflow.
+
+The new guide adds one sitemap URL. Submit the sitemap once after publication; do not repeatedly request indexing for every page. Assess search processing after a relevant Google crawl and compare completed seven-day periods with matching filters. Search Console uses Pacific time; the configured Analytics reporting day uses Bangladesh time.

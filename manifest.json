@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "archiveSHA256": "c89e026b6707929f579ee65028d965db635c54cb2ec8a5e66d9da3addee3da92",
+  "archiveSHA256": "c6f21a2650b7b2532e0c119b8e47e8524e22821c0ca57026030480450ee48a3e",
   "files": [
     {
       "path": ".nojekyll",
@@ -69,13 +69,13 @@
     },
     {
       "path": "academic-applications/charitrik-sonod-abedon.html",
-      "bytes": 80128,
-      "sha256": "781df3704b36942fb6b13df2809a2bcf9267cc5d371a974381a89a302971010a"
+      "bytes": 80677,
+      "sha256": "e486a6d40f136684b9160099df1b01d9a63739ed0b4e615adc8a078a95ae2025"
     },
     {
       "path": "academic-applications/charitrik-sonod-abedon/index.html",
-      "bytes": 80128,
-      "sha256": "781df3704b36942fb6b13df2809a2bcf9267cc5d371a974381a89a302971010a"
+      "bytes": 80677,
+      "sha256": "e486a6d40f136684b9160099df1b01d9a63739ed0b4e615adc8a078a95ae2025"
     },
     {
       "path": "academic-applications/chutir-abedon-application-school.html",
@@ -89,13 +89,13 @@
     },
     {
       "path": "academic-applications/fee-mokuf-abedon.html",
-      "bytes": 71337,
-      "sha256": "a818d0ae3ac12a3c51e491083d4e00290fa637d532f8a479b12b1d70ea5d3f99"
+      "bytes": 74740,
+      "sha256": "c822b1fb5e941a4065f724f92e7469a8d3f1beca0c3855cf0859caaeb8cbb0e6"
     },
     {
       "path": "academic-applications/fee-mokuf-abedon/index.html",
-      "bytes": 71337,
-      "sha256": "a818d0ae3ac12a3c51e491083d4e00290fa637d532f8a479b12b1d70ea5d3f99"
+      "bytes": 74740,
+      "sha256": "c822b1fb5e941a4065f724f92e7469a8d3f1beca0c3855cf0859caaeb8cbb0e6"
     },
     {
       "path": "academic-applications/hostel-leaving-application.html",
@@ -119,13 +119,13 @@
     },
     {
       "path": "academic-applications/id-card-hariye-gele-abedon.html",
-      "bytes": 78896,
-      "sha256": "ab12318b5469401ecee7a20bcd750b30b7b90be1dee78aff16883dac36cff797"
+      "bytes": 79528,
+      "sha256": "b2ae511ad59789e16a45f2d009c1dd2846298522ace14fba225b6b96fe6cdf26"
     },
     {
       "path": "academic-applications/id-card-hariye-gele-abedon/index.html",
-      "bytes": 78896,
-      "sha256": "ab12318b5469401ecee7a20bcd750b30b7b90be1dee78aff16883dac36cff797"
+      "bytes": 79528,
+      "sha256": "b2ae511ad59789e16a45f2d009c1dd2846298522ace14fba225b6b96fe6cdf26"
     },
     {
       "path": "academic-applications/index.html",
@@ -144,13 +144,13 @@
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon.html",
-      "bytes": 73210,
-      "sha256": "ace7d848412cf17c1b1dd65588ca317a05792369ca6f5fe3e59859af9a696161"
+      "bytes": 76631,
+      "sha256": "3ccc0008ef6159b5ce51eeb013f4f09c7fb74a67f3fe1a32cf7bc8ffbb50e6d0"
     },
     {
       "path": "academic-applications/oshusthotar-karone-chutir-abedon/index.html",
-      "bytes": 73210,
-      "sha256": "ace7d848412cf17c1b1dd65588ca317a05792369ca6f5fe3e59859af9a696161"
+      "bytes": 76631,
+      "sha256": "3ccc0008ef6159b5ce51eeb013f4f09c7fb74a67f3fe1a32cf7bc8ffbb50e6d0"
     },
     {
       "path": "academic-applications/porikkhay-onuposthitir-abedon.html",
@@ -184,13 +184,13 @@
     },
     {
       "path": "academic-applications/tc-abedon-transfer-certificate.html",
-      "bytes": 80607,
-      "sha256": "2e0fd9c09b29ee8391cf663a910443fa308fc9f3b95421cdcd2d3281733b7bae"
+      "bytes": 83919,
+      "sha256": "edda7a238a15a37c2fa859d9cbdc1029dd264a0f4039292c2077d185d174fe01"
     },
     {
       "path": "academic-applications/tc-abedon-transfer-certificate/index.html",
-      "bytes": 80607,
-      "sha256": "2e0fd9c09b29ee8391cf663a910443fa308fc9f3b95421cdcd2d3281733b7bae"
+      "bytes": 83919,
+      "sha256": "edda7a238a15a37c2fa859d9cbdc1029dd264a0f4039292c2077d185d174fe01"
     },
     {
       "path": "ads.txt",
@@ -221,6 +221,16 @@
       "path": "assets/downloads/admission-document-return-paragraph.txt",
       "bytes": 462,
       "sha256": "b484f9130fb40ab231ebfa0698252e4655df837ea82954157f51b4950bf213bb"
+    },
+    {
+      "path": "assets/downloads/career-objective-workbook.docx",
+      "bytes": 39084,
+      "sha256": "74d465c06c4467ce92bdb198b1a5488b689748035b6c4f81e7dc6f57b97faa63"
+    },
+    {
+      "path": "assets/downloads/career-objective-workbook.pdf",
+      "bytes": 107832,
+      "sha256": "e2f7f7e8a5e1f5e50b00abeb61edf5b63acb03628d1598c61f99a40ba9badd81"
     },
     {
       "path": "assets/downloads/certificate-marksheet-collection-application-bangla.txt",
@@ -256,6 +266,26 @@
       "path": "assets/downloads/employment-current-english.txt",
       "bytes": 659,
       "sha256": "cc37000ddf080160f35cfd208761212fb0737dea4df7b52591a49f5b643e6970"
+    },
+    {
+      "path": "assets/downloads/experience-certificate-kit.docx",
+      "bytes": 39771,
+      "sha256": "8555f1a2b0e4f1c0024c6fed181126ff0a09b31b465d55169aa325fb5dd7f8d3"
+    },
+    {
+      "path": "assets/downloads/experience-certificate-kit.pdf",
+      "bytes": 136582,
+      "sha256": "7184bd4d811774af9bcf6e8efdb01fd88b9f6479c1d68fda79936762c2409399"
+    },
+    {
+      "path": "assets/downloads/fee-waiver-kit.docx",
+      "bytes": 39222,
+      "sha256": "103d012a9d72f9335a7b416f3d85f0ec8a6a6086c126b9ac2ee3bdc162346c09"
+    },
+    {
+      "path": "assets/downloads/fee-waiver-kit.pdf",
+      "bytes": 127143,
+      "sha256": "ce5a0660252e1dbb64d434aecbe5c0360edeb69fd14d868c09035575e846629e"
     },
     {
       "path": "assets/downloads/freelance-invoice-blank.txt",
@@ -316,6 +346,11 @@
       "path": "assets/downloads/job-email-internship.txt",
       "bytes": 768,
       "sha256": "0586cd45b775f790f04fe634e7d4252ba96076fe1d151814e96c62345b9b4537"
+    },
+    {
+      "path": "assets/downloads/job-exit-handover-note-bangla.txt",
+      "bytes": 3146,
+      "sha256": "26c6043c5e33a1a0d86e2d93e1515c07f24d3b0f17370f2a1f5bb3292feb9595"
     },
     {
       "path": "assets/downloads/joining-office-bangla.txt",
@@ -543,6 +578,16 @@
       "sha256": "d460b67546dfca71b039749ae28a63726355aa4b038dfd14d7d27bacc6041dbe"
     },
     {
+      "path": "assets/downloads/sickness-leave-kit.docx",
+      "bytes": 39146,
+      "sha256": "5955e6910359c48d12e689274720f3466494246d82726b38b6a60757e7863bb9"
+    },
+    {
+      "path": "assets/downloads/sickness-leave-kit.pdf",
+      "bytes": 139065,
+      "sha256": "73a9dffebf87ea3a123d35d5c73e70473fc5e1df95123dcdeeec8542145f0cf2"
+    },
+    {
       "path": "assets/downloads/subject-change-application.txt",
       "bytes": 1544,
       "sha256": "0bfd5c30add450a756ae4779ee5c3885507584fffefacde2a355ee39b8589553"
@@ -556,6 +601,16 @@
       "path": "assets/downloads/tc-school-admission.txt",
       "bytes": 2353,
       "sha256": "adae858d83ec3f8cf2bf9146f73391f8f6f68352860668c3f3dd7e1ca89e2b0c"
+    },
+    {
+      "path": "assets/downloads/transfer-certificate-kit.docx",
+      "bytes": 39889,
+      "sha256": "0d2f53c33195291ccb066536d1830d5c39e5a8a5035a30308abd107d56858609"
+    },
+    {
+      "path": "assets/downloads/transfer-certificate-kit.pdf",
+      "bytes": 143707,
+      "sha256": "c1baec5cd50c4c2df97f731fdcb6f6f447c21140fb2a992881be127d83c8ebfd"
     },
     {
       "path": "assets/downloads/workplace-transfer-bn.txt",
@@ -1549,23 +1604,23 @@
     },
     {
       "path": "cv-resume-templates/cv-objective-skills-writing-guide.html",
-      "bytes": 82356,
-      "sha256": "c7b77353650cc2ff647ecf1cb523ea61b765f0bf1e1b07cac5da206347f7eb9e"
+      "bytes": 85429,
+      "sha256": "9abc4918b66e2f92986f648a1d17fd31817bc35ca9a22ba701f3d8ed71f2d7c5"
     },
     {
       "path": "cv-resume-templates/cv-objective-skills-writing-guide/index.html",
-      "bytes": 82356,
-      "sha256": "c7b77353650cc2ff647ecf1cb523ea61b765f0bf1e1b07cac5da206347f7eb9e"
+      "bytes": 85429,
+      "sha256": "9abc4918b66e2f92986f648a1d17fd31817bc35ca9a22ba701f3d8ed71f2d7c5"
     },
     {
       "path": "cv-resume-templates/experienced-professional-cv-resume-format.html",
-      "bytes": 82288,
-      "sha256": "18c08e0cd77025e155a58f78b08c97586d9343cf58efe2bab21ddfcb6a1005db"
+      "bytes": 82804,
+      "sha256": "078938f13a9e5b41df01b4373b61fc2d10db3cb9798b4a67f54641d600a8dc68"
     },
     {
       "path": "cv-resume-templates/experienced-professional-cv-resume-format/index.html",
-      "bytes": 82288,
-      "sha256": "18c08e0cd77025e155a58f78b08c97586d9343cf58efe2bab21ddfcb6a1005db"
+      "bytes": 82804,
+      "sha256": "078938f13a9e5b41df01b4373b61fc2d10db3cb9798b4a67f54641d600a8dc68"
     },
     {
       "path": "cv-resume-templates/fresher-cv-format-bangladesh-template.html",
@@ -1699,8 +1754,8 @@
     },
     {
       "path": "office-letters-notices.html",
-      "bytes": 56604,
-      "sha256": "fa3a92838e58bd5e8dedc2746b7922f1eda3233ae3ccfe0857d36723afe47a38"
+      "bytes": 57318,
+      "sha256": "e243baff565a4c65efff3f15abf1477197acfaf3ff9ad4481f71f6f354584cce"
     },
     {
       "path": "office-letters-notices/employment-verification-letter.html",
@@ -1714,13 +1769,13 @@
     },
     {
       "path": "office-letters-notices/experience-certificate-format.html",
-      "bytes": 81559,
-      "sha256": "5b46a9c20663a430f07a364f03fda1c9b3c9185b7917fdb7c9f776e8f4b37c29"
+      "bytes": 85941,
+      "sha256": "1557e404c808a8b059ee9bfd35f04f57e8c577a7c49e72abf97d484aa4afb01d"
     },
     {
       "path": "office-letters-notices/experience-certificate-format/index.html",
-      "bytes": 81559,
-      "sha256": "5b46a9c20663a430f07a364f03fda1c9b3c9185b7917fdb7c9f776e8f4b37c29"
+      "bytes": 85941,
+      "sha256": "1557e404c808a8b059ee9bfd35f04f57e8c577a7c49e72abf97d484aa4afb01d"
     },
     {
       "path": "office-letters-notices/freelance-invoice-format.html",
@@ -1744,8 +1799,8 @@
     },
     {
       "path": "office-letters-notices/index.html",
-      "bytes": 56604,
-      "sha256": "fa3a92838e58bd5e8dedc2746b7922f1eda3233ae3ccfe0857d36723afe47a38"
+      "bytes": 57318,
+      "sha256": "e243baff565a4c65efff3f15abf1477197acfaf3ff9ad4481f71f6f354584cce"
     },
     {
       "path": "office-letters-notices/internship-certificate-format.html",
@@ -1758,14 +1813,24 @@
       "sha256": "b068455089060c51ecac184d04efb7cea3e92497032bff672098549efa33686f"
     },
     {
+      "path": "office-letters-notices/job-exit-documents-guide.html",
+      "bytes": 55470,
+      "sha256": "aab21f07b25630a09db2c6cd092522221d5c4bd149e66ef7dfba34f5d122d16a"
+    },
+    {
+      "path": "office-letters-notices/job-exit-documents-guide/index.html",
+      "bytes": 55470,
+      "sha256": "aab21f07b25630a09db2c6cd092522221d5c4bd149e66ef7dfba34f5d122d16a"
+    },
+    {
       "path": "office-letters-notices/job-resignation-letter-bangla-english.html",
-      "bytes": 66172,
-      "sha256": "69ee510e170f26351d6d43f16585aeecb4cd38bc80ab3ea8d191ad1a4a3c289e"
+      "bytes": 67721,
+      "sha256": "121a3be601def8b995c50ca91aa2bdad65ca8d2582d54dbf15e3f9fd5b46e746"
     },
     {
       "path": "office-letters-notices/job-resignation-letter-bangla-english/index.html",
-      "bytes": 66172,
-      "sha256": "69ee510e170f26351d6d43f16585aeecb4cd38bc80ab3ea8d191ad1a4a3c289e"
+      "bytes": 67721,
+      "sha256": "121a3be601def8b995c50ca91aa2bdad65ca8d2582d54dbf15e3f9fd5b46e746"
     },
     {
       "path": "office-letters-notices/joining-letter-format.html",
@@ -2009,13 +2074,13 @@
     },
     {
       "path": "professional-emails/job-inquiry-email-sample.html",
-      "bytes": 71474,
-      "sha256": "f17a6953db4839b0d88fcbd5d544652c42af24c7ae02f524c89d3f6dc7ce4b57"
+      "bytes": 72138,
+      "sha256": "0824db1ad75184e8366a0b1297672736cd8484171872e14d4202f9e5823f8832"
     },
     {
       "path": "professional-emails/job-inquiry-email-sample/index.html",
-      "bytes": 71474,
-      "sha256": "f17a6953db4839b0d88fcbd5d544652c42af24c7ae02f524c89d3f6dc7ce4b57"
+      "bytes": 72138,
+      "sha256": "0824db1ad75184e8366a0b1297672736cd8484171872e14d4202f9e5823f8832"
     },
     {
       "path": "professional-emails/leave-request-email-sample.html",
@@ -2059,8 +2124,8 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 11573,
-      "sha256": "99b84fae0b3e9f83abfccee5585831b9c366a528550a5f7d594bf8d470ab6482"
+      "bytes": 11800,
+      "sha256": "431995ba1248601628df54b914f6970372535c1b49f237ba520f10161ff71fc1"
     },
     {
       "path": "terms.html",
