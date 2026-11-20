@@ -1,11 +1,11 @@
 # Bangla Format current production release
 
-18 November 2026 · https://banglaformat.co/
+Prepared 18 November 2026; publication 20 November 2026 · https://banglaformat.co/
 
 This branch retains only the final production archive, its manifest, this README, CNAME and the existing manual deployment workflow. Previous commits remain available for rollback. Editable source, research, account evidence and old release packages are retained locally and are excluded from production.
 
 - Production archive: 427 files, 101 canonical pages, 100 identical compatibility HTML copies and one noindex 404.
-- SHA256: `c6f21a2650b7b2532e0c119b8e47e8524e22821c0ca57026030480450ee48a3e`.
+- SHA256: `4a8f1a477179cd2ff9bc61e40eb81f74980598e9188ba9ec4335068136c48ab5`.
 - Ten new document files: matching Word/PDF kits for experience certificates, sickness leave, transfer certificates, career objectives and fee waivers. Existing TXT downloads remain available.
 - Thirteen articles from the current content data, including the new four-document job-exit guide, use the established header, footer, sample controls and typography.
 

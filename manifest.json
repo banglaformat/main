@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "archiveSHA256": "c6f21a2650b7b2532e0c119b8e47e8524e22821c0ca57026030480450ee48a3e",
+  "date": "2026-11-20",
+  "archiveSHA256": "4a8f1a477179cd2ff9bc61e40eb81f74980598e9188ba9ec4335068136c48ab5",
   "files": [
     {
       "path": ".nojekyll",
@@ -1815,12 +1815,12 @@
     {
       "path": "office-letters-notices/job-exit-documents-guide.html",
       "bytes": 55470,
-      "sha256": "aab21f07b25630a09db2c6cd092522221d5c4bd149e66ef7dfba34f5d122d16a"
+      "sha256": "0d4e446ccfac5cf43e4ff4b46e067d3e5f6dcac30bd1798059fce0de10cf05f8"
     },
     {
       "path": "office-letters-notices/job-exit-documents-guide/index.html",
       "bytes": 55470,
-      "sha256": "aab21f07b25630a09db2c6cd092522221d5c4bd149e66ef7dfba34f5d122d16a"
+      "sha256": "0d4e446ccfac5cf43e4ff4b46e067d3e5f6dcac30bd1798059fce0de10cf05f8"
     },
     {
       "path": "office-letters-notices/job-resignation-letter-bangla-english.html",
@@ -2125,7 +2125,7 @@
     {
       "path": "sitemap.xml",
       "bytes": 11800,
-      "sha256": "431995ba1248601628df54b914f6970372535c1b49f237ba520f10161ff71fc1"
+      "sha256": "8c94d19141492fe32762beebcb70482affd54844e61b5e4c5b25d95c92c24936"
     },
     {
       "path": "terms.html",
