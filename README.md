@@ -1,28 +1,21 @@
 # Bangla Format current production release
 
-Prepared 18 November 2026; publication 20 November 2026 · https://banglaformat.co/
+20 November 2026 · https://banglaformat.co/
 
-This branch retains only the final production archive, its manifest, this README, CNAME and the existing manual deployment workflow. Previous commits remain available for rollback. Editable source, research, account evidence and old release packages are retained locally and are excluded from production.
+This branch keeps only the final production archive, manifest, README, CNAME and manual deployment workflow. Git history is preserved for rollback. Editable source, research and account evidence remain local.
 
-- Production archive: 427 files, 101 canonical pages, 100 identical compatibility HTML copies and one noindex 404.
-- SHA256: `4a8f1a477179cd2ff9bc61e40eb81f74980598e9188ba9ec4335068136c48ab5`.
-- Ten new document files: matching Word/PDF kits for experience certificates, sickness leave, transfer certificates, career objectives and fee waivers. Existing TXT downloads remain available.
-- Thirteen articles from the current content data, including the new four-document job-exit guide, use the established header, footer, sample controls and typography.
+Archive SHA256: `eaec2d5eccff8eda5237ad2488df5fb37af8e006b483e57a4884e193dcc7ae31`. The 427 production files contain 101 canonical pages, 100 identical compatibility HTML copies and one noindex 404.
 
-## Corrections and scope
+## Discovery consistency correction
 
-Removed unsupported certificate delivery times, password-sharing advice, categorical clearance statements and institutional requirements. Corrected HR and resignation-to-handover/release links. Distinguished current and former employment. Moved NGO examples before related navigation. Replaced inflated career objectives with editable, task-specific wording. Added clearly fictional completed examples without signatures or invented approval. Existing public routes, publication dates and anchors are preserved; slashless canonical URLs and the existing domain/host remain in use.
+The audit found 17 plain-list related sections mixed with 36 older card sections. Five category hubs mixed card grids and appended prose listings; category headers and attribution also differed. The prior checks verified routes and the site shell but did not enforce discovery-component structure.
 
-AI assistance remains disclosed. No independent human or expert approval, ranking guarantee, legal acceptance guarantee or indexing recovery is claimed. The original traffic-drop cause remains unproven.
+One shared renderer now supplies 54 related-guide sections and all 57 article cards across six document categories. Headers, title hierarchy, spacing, descriptions, publisher attribution and responsive grids are consistent. New-post recommendations use curated task relationships instead of taking the first records from a file. The job-exit guide points to resignation, handover, release and experience-certificate guides. The font library retains its specialized preview/download layout.
 
 ## Validation
 
-Release checks, type check, 21 development-routing checks, all canonicals, sitemap alignment, local links, anchors, copy targets and genuine 404 behavior passed. Word/PDF content matches the on-page samples. Bengali rendering and selectable PDF text were checked, and all 25 document pages were visually inspected. Five priority guides passed desktop/mobile navigation, copy and overflow checks. All ten downloads matched their expected bytes. Repeated mobile performance audits retained advertising and analytics; scores varied with third-party execution and hosting context, and CLS remained zero.
+The full release suite, type check, 21 development-route checks, discovery membership/relevance checks and desktop/mobile browser checks passed. All article samples, document downloads, public anchors, existing URLs and publication/modification dates are preserved. Runtime JavaScript, fonts, advertising and analytics are unchanged. No ranking or indexing recovery is claimed.
 
-The static build was repeated and every output-file hash matched. The manual workflow verifies the pinned archive hash and all 427 file hashes before publishing only the extracted production directory.
+Two builds produced identical output. The existing manual workflow checks this pinned archive hash and every approved file before publishing only its extracted contents. Ordinary commits do not deploy. Keep the matching archive, manifest and workflow together for rollback.
 
-## Deployment and recovery
-
-Run **Publish verified production archive** manually from Actions on main. Ordinary commits do not deploy. The legacy queued run 43799553947 could not be cancelled through the normal GitHub control. Publication proceeds under the owner-approved recovery policy: verify live file hashes after deployment and recheck the old run. If it later overwrites production, restore this matching archive/manifest/workflow and publish through the same verified workflow.
-
-The new guide adds one sitemap URL. Submit the sitemap once after publication; do not repeatedly request indexing for every page. Assess search processing after a relevant Google crawl and compare completed seven-day periods with matching filters. Search Console uses Pacific time; the configured Analytics reporting day uses Bangladesh time.
+The legacy queued run 43799553947 remains subject to the owner-approved recovery policy: verify deployed hashes and recheck it after publication. If an old run overwrites production, restore this verified package through the same manual workflow. Sitemap URLs are unchanged, so no new sitemap submission or bulk indexing request is required.
